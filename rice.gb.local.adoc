@@ -30,9 +30,9 @@
 :obsoletes-parts: clause 7-9, clause 11
 :equivalence: identical
 :iso-standard: ISO 1231
-:scope: sector
+:scope: local
 :mandate: recommended
-:prefix: LS
+:prefix: 81
 :published-date: 2016-01-02
 :activated-date: 2016-04-02
 :toc:
