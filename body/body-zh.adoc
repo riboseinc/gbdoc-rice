@@ -298,7 +298,7 @@ The results of an interlaboratory test are given in <<AnnexD>> for information
 r = 1 %
 ++++
 
-当中：
+式中：
 
 stem:[r]:: 是重复性极限。
 
@@ -313,7 +313,7 @@ stem:[r]:: 是重复性极限。
 R = 3 %
 ++++
 
-当中：
+式中：
 
 stem:[R]:: 是重现性限制。
 
@@ -420,7 +420,7 @@ image::rice_images/rice_image1.png[]
 w = (m_D) / (m_s)
 ++++
 
-当中：
+式中：
 
 stem:[w]:: 是测试样品中具有特定缺陷的晶粒的质量分数；
 stem:[m_D]:: 是具有该缺陷的颗粒的质量，以克为单位；
@@ -539,7 +539,7 @@ WARNING: 碘与皮肤直接接触会引起损伤，所以在处理碘时应该�
 w_(wax) = (m_1) / (m_1 + m_2) xx 100
 ++++
 
-当中：
+式中：
 
 stem:[m_1]:: 是糯米部分的质量，用克表示；
 stem:[m_2]:: 是非糯米部分的质量，用克表示。
