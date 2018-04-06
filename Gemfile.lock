@@ -1,0 +1,143 @@
+GIT
+  remote: https://github.com/riboseinc/asciidoctor-bibliography
+  revision: 5171a3738cccbc96ca0f79b10b4a61b5a2d7f1e8
+  specs:
+    asciidoctor-bibliography (0.7.3)
+      asciidoctor (~> 1.5.6)
+      bibtex-ruby (~> 4.4.4)
+      citeproc-ruby (~> 1.1.7)
+      csl-styles (~> 1.0.1)
+      latex-decode (~> 0.2.2)
+      nokogiri (~> 1.8.1)
+
+GIT
+  remote: https://github.com/riboseinc/asciidoctor-gb
+  revision: b85e9a997d5384c7febab5d2a67a61714008f111
+  specs:
+    asciidoctor-gb (0.1.7)
+      asciidoctor (~> 1.5.6)
+      asciidoctor-iso
+      asciimath
+      htmlentities (~> 4.3.4)
+      image_size
+      isodoc
+      mime-types
+      nokogiri
+      ruby-jing
+      ruby-xslt
+      thread_safe
+      twitter_cldr
+      uuidtools
+
+GIT
+  remote: https://github.com/riboseinc/asciidoctor-iso
+  revision: b2eea9c4aa79ba488d00f2faef8e1171c8a15ac9
+  specs:
+    asciidoctor-iso (0.7.3)
+      asciidoctor (~> 1.5.6)
+      html2doc
+      htmlentities (~> 4.3.4)
+      isodoc
+      nokogiri
+      ruby-jing
+      sass
+      thread_safe
+      uuidtools
+
+GIT
+  remote: https://github.com/riboseinc/html2doc
+  revision: 8a18fdb03534ab313a0ba4fffbe5e2131da6fa36
+  specs:
+    html2doc (0.6.9)
+      asciimath
+      htmlentities (~> 4.3.4)
+      image_size
+      mime-types
+      nokogiri
+      ruby-xslt
+      thread_safe
+      uuidtools
+
+GIT
+  remote: https://github.com/riboseinc/isodoc
+  revision: 37bbd991c2bb959f9ddce97d549a0aa50bc3afb2
+  specs:
+    isodoc (0.5.8)
+      asciimath
+      html2doc
+      htmlentities (~> 4.3.4)
+      image_size
+      liquid
+      mime-types
+      nokogiri
+      roman-numerals
+      ruby-xslt
+      thread_safe
+      uuidtools
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    asciidoctor (1.5.6.2)
+    asciimath (1.0.4)
+    bibtex-ruby (4.4.6)
+      latex-decode (~> 0.0)
+    camertron-eprun (1.1.1)
+    citeproc (1.0.9)
+      namae (~> 1.0)
+    citeproc-ruby (1.1.10)
+      citeproc (~> 1.0, >= 1.0.9)
+      csl (~> 1.5)
+    cldr-plurals-runtime-rb (1.0.1)
+    csl (1.5.0)
+      namae (~> 1.0)
+    csl-styles (1.0.1.8)
+      csl (~> 1.0)
+    ffi (1.9.23)
+    htmlentities (4.3.4)
+    image_size (1.5.0)
+    latex-decode (0.2.2)
+      unicode (~> 0.4)
+    liquid (4.0.0)
+    mime-types (3.1)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2016.0521)
+    mini_portile2 (2.3.0)
+    namae (1.0.1)
+    nokogiri (1.8.2)
+      mini_portile2 (~> 2.3.0)
+    optout (0.0.2)
+    rb-fsevent (0.10.3)
+    rb-inotify (0.9.10)
+      ffi (>= 0.5.0, < 2)
+    roman-numerals (0.3.0)
+    ruby-jing (0.0.1)
+      optout (>= 0.0.2)
+    ruby-xslt (0.9.10)
+    sass (3.5.6)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+    thread_safe (0.3.6)
+    twitter_cldr (4.4.3)
+      camertron-eprun
+      cldr-plurals-runtime-rb (~> 1.0)
+      tzinfo
+    tzinfo (1.2.5)
+      thread_safe (~> 0.1)
+    unicode (0.4.4.4)
+    uuidtools (2.1.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  asciidoctor-bibliography!
+  asciidoctor-gb!
+  asciidoctor-iso!
+  html2doc!
+  isodoc!
+
+BUNDLED WITH
+   1.16.1
