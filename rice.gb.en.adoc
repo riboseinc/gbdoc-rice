@@ -40,10 +40,10 @@
 :sectnumlevels: 7
 :stem:
 :xrefstyle: short
-:appendix-caption: 附件
-:appendix-refsig: 附件
-:section-refsig: 章
-:table-caption: 表
-:example-caption: 例
+:appendix-caption: Annex
+:appendix-refsig: Annex
+:section-refsig: Section
+:table-caption: Table
+:example-caption: Example
 
-include::body/body-zh.adoc[]
+include::body/body-en.adoc[]
