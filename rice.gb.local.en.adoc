@@ -5,8 +5,8 @@
 :revdate: 2018-08-08
 :copyright-year: 2018
 :iteration: 3
-:language: zh
-:script: Hans
+:language: en
+:script: Latn
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
 :title-part-en: Rice

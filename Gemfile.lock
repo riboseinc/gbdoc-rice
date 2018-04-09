@@ -12,9 +12,9 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/asciidoctor-gb
-  revision: f6f4b93edb0b89276eef6357e3e3344defbdcb34
+  revision: 1fe9764f8373d014a21d796f99e3abe87059141f
   specs:
-    asciidoctor-gb (0.1.7)
+    asciidoctor-gb (0.2.0)
       asciidoctor (~> 1.5.6)
       asciidoctor-iso
       asciimath
@@ -60,7 +60,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/isodoc
-  revision: 9808fd24dbb4f5a567943d0df764c72fe7990519
+  revision: d0165017c53fc992fd50829ee49a79f58c953f2a
   specs:
     isodoc (0.5.8)
       asciimath
