@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/riboseinc/asciidoctor-bibliography
-  revision: 5171a3738cccbc96ca0f79b10b4a61b5a2d7f1e8
+  revision: 618305c5970870df2a575f20e58a6ad4ba442685
   specs:
-    asciidoctor-bibliography (0.7.3)
+    asciidoctor-bibliography (0.8.0)
       asciidoctor (~> 1.5.6)
       bibtex-ruby (~> 4.4.4)
       citeproc-ruby (~> 1.1.7)
@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/asciidoctor-gb
-  revision: b85e9a997d5384c7febab5d2a67a61714008f111
+  revision: f6f4b93edb0b89276eef6357e3e3344defbdcb34
   specs:
     asciidoctor-gb (0.1.7)
       asciidoctor (~> 1.5.6)
@@ -31,7 +31,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/asciidoctor-iso
-  revision: b2eea9c4aa79ba488d00f2faef8e1171c8a15ac9
+  revision: b2224abec7cf06a77bea57ec6f2662fd158ed2ad
   specs:
     asciidoctor-iso (0.7.3)
       asciidoctor (~> 1.5.6)
@@ -60,7 +60,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/isodoc
-  revision: 37bbd991c2bb959f9ddce97d549a0aa50bc3afb2
+  revision: 9808fd24dbb4f5a567943d0df764c72fe7990519
   specs:
     isodoc (0.5.8)
       asciimath
