@@ -35,7 +35,7 @@
 :prefix: DB81/T
 :issued-date: 2018-08-10
 :published-date: 2018-08-10
-:activated-date: 2019-02-10
+:implemented-date: 2019-02-10
 :toc:
 :sectnumlevels: 7
 :stem:
