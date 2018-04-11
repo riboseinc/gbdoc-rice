@@ -5,8 +5,8 @@
 :revdate: 2018-08-08
 :copyright-year: 2018
 :iteration: 3
-:language: zh
-:script: Hans
+:language: en
+:script: Latn
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
 :title-part-en: Rice
@@ -29,10 +29,11 @@
 :obsoletes-parts: clause 7-9, clause 11
 :iso-standard: ISO 17301-1:2016
 :equivalence: identical
-:scope: sector
+:scope: enterprise
 :mandate: recommended
 :topic: health-and-safety
-:prefix: LS/T
+:prefix: Q/T/DEF
+:issuer: Acme Inc.
 :issued-date: 2018-08-10
 :published-date: 2018-08-10
 :implemented-date: 2019-02-10
@@ -40,10 +41,10 @@
 :sectnumlevels: 7
 :stem:
 :xrefstyle: short
-:appendix-caption: 附件
-:appendix-refsig: 附件
-:section-refsig: 章
-:table-caption: 表
-:example-caption: 例
+:appendix-caption: Annex
+:appendix-refsig: Annex
+:section-refsig: Section
+:table-caption: Table
+:example-caption: Example
 
-include::body/body-zh.adoc[]
+include::body/body-en.adoc[]

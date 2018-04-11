@@ -29,10 +29,11 @@
 :obsoletes-parts: clause 7-9, clause 11
 :iso-standard: ISO 17301-1:2016
 :equivalence: identical
-:scope: sector
+:scope: social
 :mandate: recommended
 :topic: health-and-safety
-:prefix: LS/T
+:prefix: T/T/ABC
+:issuer: Red Cross Society of China
 :issued-date: 2018-08-10
 :published-date: 2018-08-10
 :implemented-date: 2019-02-10
