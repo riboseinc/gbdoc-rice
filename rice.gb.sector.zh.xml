@@ -95,146 +95,146 @@
   <edition>2</edition>
   <revision-date>2018-08-08</revision-date>
 </version>
-<termdocsource target="ISO712" type="inline"/><termdocsource target="ISO24333" type="inline"/><preface><foreword obligation="informative"><title>Foreword</title><p id="_33fcc1ec-9ba8-415d-bfe2-1f65b464ae0c">本部分按照GB/T 1.1-2009给出的规则起草。</p>
-<p id="_992acee8-ed1f-4c09-a74d-ffad66e187b5">本部分为GB/T 80021的第一部分，修改采用2016年8月的《ISO 17301-1:2016: Cereals and pulses — Specifications and test methods — Rice》。</p>
-<p id="_4a813f06-d1d2-4af7-8d78-ce6bf61a95dc">本部分由Food products（34）提出并归口。</p>
-<p id="_9a852c72-3600-4d8a-a8a8-78463bc0595d">本部分起草单位：{drafting-organizations}。</p>
-<p id="_d0138a7b-3582-4681-b62a-4511aa431ddb">本部分起草单位：{drafting-authors}。</p></foreword><introduction id="_引言" obligation="informative"><title>Introduction</title><p id="_fe1c1208-b7ad-40cc-92a8-f81e97bbc530">本文件是为满足世界范围内对大米最低规格要求而开发的，因为大多数未经过筛选或吸入的商品大块含有一定比例的其他谷物，杂草种子，谷壳，稻草，石头，沙子，植物材料可具有不同于主要成分的物理和生物学特性，因此可影响储存行为。</p>
-<p id="_0ed523fe-78b3-48be-a00e-2e9c6c889945">赖斯是相当可观的微生物群落的永久寄主;大多数这些微生物都是世界性的，大多数是无害的，但有些会产生有害副产物。存在于新鲜收获的大米上的微生物群落包括许多类型的细菌，霉菌和酵母。当大米成熟并且水分含量下降时，田间微生物（主要是细菌）的数量减少。当大米收获时，它被贮藏微生物侵入，并且田间微生物群落逐渐消失。如果水分的质量分数（以前以水分含量表示）低于18％，微生物群落不会繁殖，而高于18％的水分会迅速增殖。因此，在收获时，微生物群落的定性和定量构成更多取决于生态因素而非稻米品种。在运输和储存过程中，会出现微生物种群的增加。收获时稻米上的微生物趋于在储存过程中消失，并被适应储存条件的微生物替代。</p>
-<p id="_c410018b-da7d-4eef-9f85-321f7986871c">据估计，储存损失平均为5％，多达30％，特别是在气候条件恶化的国家迅速发展，储存技术发展缓慢的国家，如潮湿的热带地区的发展中国家。这些数字的大小突出表明需要在全世界促进保护技术的迅速改进。</p>
-<p id="_31938f7c-a966-4527-b16e-d76b851b6c93">发行人提请注意这样一个事实，即声称遵守本文件可能涉及使用<xref target="AnnexA"/>中给出的和<xref target="figureA-1"/>中所示的样本分隔器专利。</p>
-<p id="_e0ba4481-d152-463b-be37-958e2d4d5f67">本发行人对本专利权的证据，有效性和范围不作立场。</p>
-<p id="_037fa3a7-f463-4978-b6ad-90544867fd97">该专利权持有人向发行人保证，他/她愿意与全世界的申请人在合理和非歧视性的条款和条件下谈判许可证。 在这方面，该专利权持有人的声明已在发行人登记。 信息可从以下网址获得：</p>
-<p align="left" id="_071d97b3-b9a2-436d-8379-d9088b71431a">Vache Equipment<br/>
+<termdocsource target="ISO712" type="inline"/><termdocsource target="ISO24333" type="inline"/><preface><foreword obligation="informative"><title>Foreword</title><p id="_2c28ee3c-5780-49cd-8602-6b8cc16c0248">本部分按照GB/T 1.1-2009给出的规则起草。</p>
+<p id="_21bfb1de-b5d1-41d4-96b8-8dd26730721b">本部分为GB/T 80021的第一部分，修改采用2016年8月的《ISO 17301-1:2016: Cereals and pulses — Specifications and test methods — Rice》。</p>
+<p id="_73fdaea7-57e0-422e-9280-56e5eb38cfb0">本部分由Food products（34）提出并归口。</p>
+<p id="_31be326b-a924-412f-af00-2865486fe94c">本部分起草单位：{drafting-organizations}。</p>
+<p id="_bc423d10-fcc3-4011-bf7c-7bce67369c6f">本部分起草单位：{drafting-authors}。</p></foreword><introduction id="_引言" obligation="informative"><title>Introduction</title><p id="_c395da72-9a37-4f16-82ab-81034f793a37">本文件是为满足世界范围内对大米最低规格要求而开发的，因为大多数未经过筛选或吸入的商品大块含有一定比例的其他谷物，杂草种子，谷壳，稻草，石头，沙子，植物材料可具有不同于主要成分的物理和生物学特性，因此可影响储存行为。</p>
+<p id="_b3103ded-9506-46d4-a3f3-b52c39b4a94b">赖斯是相当可观的微生物群落的永久寄主;大多数这些微生物都是世界性的，大多数是无害的，但有些会产生有害副产物。存在于新鲜收获的大米上的微生物群落包括许多类型的细菌，霉菌和酵母。当大米成熟并且水分含量下降时，田间微生物（主要是细菌）的数量减少。当大米收获时，它被贮藏微生物侵入，并且田间微生物群落逐渐消失。如果水分的质量分数（以前以水分含量表示）低于18％，微生物群落不会繁殖，而高于18％的水分会迅速增殖。因此，在收获时，微生物群落的定性和定量构成更多取决于生态因素而非稻米品种。在运输和储存过程中，会出现微生物种群的增加。收获时稻米上的微生物趋于在储存过程中消失，并被适应储存条件的微生物替代。</p>
+<p id="_b2355445-cde8-4c36-b26f-9138ca33b899">据估计，储存损失平均为5％，多达30％，特别是在气候条件恶化的国家迅速发展，储存技术发展缓慢的国家，如潮湿的热带地区的发展中国家。这些数字的大小突出表明需要在全世界促进保护技术的迅速改进。</p>
+<p id="_18f5a96f-60c7-48fc-be63-420b6973d774">发行人提请注意这样一个事实，即声称遵守本文件可能涉及使用<xref target="AnnexA"/>中给出的和<xref target="figureA-1"/>中所示的样本分隔器专利。</p>
+<p id="_23d8fb71-e3f5-4c28-b633-df825c674e49">本发行人对本专利权的证据，有效性和范围不作立场。</p>
+<p id="_2dbe19e7-2508-40ba-b693-86af6a48f351">该专利权持有人向发行人保证，他/她愿意与全世界的申请人在合理和非歧视性的条款和条件下谈判许可证。 在这方面，该专利权持有人的声明已在发行人登记。 信息可从以下网址获得：</p>
+<p align="left" id="_984e3b11-50fb-4ce8-8ec5-2f5d170d618a">Vache Equipment<br/>
 Fictitious<br/>
 World<br/>
 </p>
-<p id="_b2df7939-08f7-4e44-a5fd-3ea70ff19af8">请注意本文件的某些内容可能成为上述以外专利权的主题。 发行人不负责识别任何或所有此类专利权。</p></introduction></preface><sections>
+<p id="_00aef59b-1179-424f-a541-43908d727b90">请注意本文件的某些内容可能成为上述以外专利权的主题。 发行人不负责识别任何或所有此类专利权。</p></introduction></preface><sections>
 
-<clause id="_范围" obligation="normative"><title>Scope</title><p id="_031254a8-3f69-4804-b4b5-fc5e18cf253f">本文件规定了稻米（<em>Oryza sativa L.</em>）的最低要求和测试方法。</p>
-<p id="_d2ec2157-592e-466e-b4e4-3fb03ca3f805">适用于直接或修复后适用于人类食用的糙米，糙米，精米和碾米。</p>
-<p id="_7ea33544-dae4-4399-8ec2-cc6000ed4ee5">此文件并不适用于熟食米饭制品。</p></clause>
+<clause id="_范围" obligation="normative"><title>Scope</title><p id="_c553dba6-bcea-4ea2-938d-4adfe7862abd">本文件规定了稻米（<em>Oryza sativa L.</em>）的最低要求和测试方法。</p>
+<p id="_00cf0388-429c-45f7-a3ba-1596465370f4">适用于直接或修复后适用于人类食用的糙米，糙米，精米和碾米。</p>
+<p id="_56833274-6e3a-4de7-a0fe-75a632ce5182">此文件并不适用于熟食米饭制品。</p></clause>
 
 <terms id="_术语和定义" obligation="normative"><title>Terms and Definitions</title><term id="paddy"><preferred language="en">paddy</preferred> <preferred language="zh">稻谷</preferred>
   <admitted language="zh">糙米</admitted> <admitted language="en">rough rice</admitted>
 
-<definition><p id="_cbc7dd66-8981-40dc-9504-bdf1eea096f1">打谷后保留壳的大米</p></definition>
+<definition><p id="_5c54879d-515b-48a3-b22a-87c720f0f12d">打谷后保留壳的大米</p></definition>
 <termsource status="identical">
   <origin bibitemid="ISO7301" type="inline" citeas="ISO 7301: 2011"/>
 </termsource></term>
 <term id="husked_rice"><preferred language="en">husked rice</preferred> <preferred language="zh">糙米</preferred>
   <deprecates language="zh">货米</deprecates> <deprecates language="en">cargo rice</deprecates>
 
-<definition><p id="_d81b9c0e-d9b6-4ff8-9b45-24ded2a0ad14">从中只去除了壳的 <em>水稻</em>（<xref target="paddy"/>）</p></definition>
+<definition><p id="_f1b52975-fc5c-450a-a5df-49ded5a1c448">从中只去除了壳的 <em>水稻</em>（<xref target="paddy"/>）</p></definition>
 <termsource status="modified">
   <origin bibitemid="ISO7301" type="inline" citeas="ISO 7301: 2011"/>
   <modification>
-    <p id="_6473a0e2-5ed0-483f-9b9e-116f96a465a4">3.2, “货米”一词改为以弃用，不包含注1</p>
+    <p id="_f776245f-13ca-4b10-83b5-c33efd75d8fd">3.2, “货米”一词改为以弃用，不包含注1</p>
   </modification>
 </termsource></term>
 <term id="_string_language_en_milled_rice_string_string_language_zh_string"><preferred language="en">milled rice</preferred> <preferred language="zh">精米</preferred>
   <admitted language="zh">白米</admitted> <admitted language="en">white rice</admitted>
 
-<definition><p id="_9fc7bc25-19a2-4509-9ef3-08f6162f0c9c">通过碾磨去除了几乎所有麸皮和胚芽都的 <em>糙米</em>（<xref target="husked_rice"/>）</p></definition>
+<definition><p id="_c5abfb10-2f7e-4138-8f02-3a8bad0ea42e">通过碾磨去除了几乎所有麸皮和胚芽都的 <em>糙米</em>（<xref target="husked_rice"/>）</p></definition>
 <termsource status="modified">
   <origin bibitemid="ISO7301" type="inline" citeas="ISO 7301: 2011"/>
   <modification>
-    <p id="_cf4cfb27-e2a1-4ae6-a463-a670739adb38">3.3</p>
+    <p id="_539f535b-e517-486e-b94f-6674de588540">3.3</p>
   </modification>
 </termsource></term>
 <term id="_string_language_en_parboiled_rice_string_string_language_zh_string">
   <preferred language="en">parboiled rice</preferred> <preferred language="zh">熟米饭</preferred>
-  <definition><p id="_f0590f71-a8f0-4552-95c0-cd701035bd20">通过在水中浸泡 <em>稻谷</em>（<xref target="paddy"/>）或 <em>稻米</em>（<xref target="husked_rice"/>），然后进行热处理和干燥过程，将淀粉完全糊化的大米</p></definition>
+  <definition><p id="_c465f0eb-0634-4b97-a485-30731cb750c4">通过在水中浸泡 <em>稻谷</em>（<xref target="paddy"/>）或 <em>稻米</em>（<xref target="husked_rice"/>），然后进行热处理和干燥过程，将淀粉完全糊化的大米</p></definition>
 </term>
-<term id="_string_language_en_waxy_rice_string_string_language_zh_string"><preferred language="en">waxy rice</preferred> <preferred language="zh">糯米</preferred><definition><p id="_1ec5bd3b-0f81-48ab-a958-4a42605339f5">其内核具有白色和不透明外观的各种大米</p></definition>
-<termnote id="_afb80d24-db3e-433c-8870-786661d56351">
-  <p id="_71fdfc8a-a0e6-4978-b0e6-99c15137265c">糯米淀粉几乎全部由支链淀粉组成。烹饪后，心倾向于粘在一起。</p>
+<term id="_string_language_en_waxy_rice_string_string_language_zh_string"><preferred language="en">waxy rice</preferred> <preferred language="zh">糯米</preferred><definition><p id="_de94186c-6057-493d-a63c-21b0a25f70c8">其内核具有白色和不透明外观的各种大米</p></definition>
+<termnote id="_154d4acc-6828-4291-847a-e4fa19de1287">
+  <p id="_84ccb398-02a3-4b21-b87c-cf2b60c68c5a">糯米淀粉几乎全部由支链淀粉组成。烹饪后，心倾向于粘在一起。</p>
 </termnote></term>
 <term id="_string_language_en_extraneous_matter_string_string_language_zh_string"><preferred language="en">extraneous matter</preferred> <preferred language="zh">异物</preferred><admitted language="zh"></admitted> <admitted language="en">EM</admitted>
 <domain>稻米</domain>
-<definition><p id="_2edc7007-cd5f-4c99-a9d1-dd7d91f2b27c">非整粒或破碎颗粒的有机和无机成分</p></definition>
-<termexample id="_54f6c93e-e549-46a4-a2e1-83b1a61f05e2">
-  <p id="_2df6e3e3-7b76-400e-97a6-97a3a4f74be3">外来种子，外壳，麸皮，沙子，灰尘。</p>
+<definition><p id="_34301c0e-51e3-4c7f-8cc4-6023c84fcffd">非整粒或破碎颗粒的有机和无机成分</p></definition>
+<termexample id="_94afa8f1-f40b-4fcf-aaf1-b21ce5ccd8aa">
+  <p id="_5260df1d-cd9b-48d0-aa22-4b3411ebb3aa">外来种子，外壳，麸皮，沙子，灰尘。</p>
 </termexample></term>
 <term id="HDK"><preferred language="zh"></preferred> <preferred language="en">HDK</preferred>
   <admitted language="zh">热损内核-</admitted> <admitted language="en">heat-damaged kernel</admitted>
 
-<definition><p id="_bd8acf4e-f6dd-477d-951c-574e8d3fe70d">由于加热而改变正常颜色的破损或整体的内核</p></definition>
-<termnote id="_102969eb-3051-48ed-8556-510fb89966c3">
-  <p id="_eca23017-84bf-4920-bc4c-50d24642716c">这个类别包括由于改变而变黄的完整或破碎的内核。 一批非蒸煮大米中的水煮米饭也包含在此类别中。</p>
+<definition><p id="_f6e1bc1d-0bb1-44c1-a3ec-32911be6fb8d">由于加热而改变正常颜色的破损或整体的内核</p></definition>
+<termnote id="_e450512c-bd5b-4dfe-8208-c08bee7039d9">
+  <p id="_55e12382-29db-424e-827a-cc458a54928c">这个类别包括由于改变而变黄的完整或破碎的内核。 一批非蒸煮大米中的水煮米饭也包含在此类别中。</p>
 </termnote></term>
 <term id="_string_language_en_damaged_kernel_string_string_language_zh_string">
   <preferred language="en">damaged kernel</preferred> <preferred language="zh">损内核</preferred>
-  <definition><p id="_7f24bc5d-c411-4b03-a178-2d40fa02dcb6">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <em>HDK</em>（<xref target="HDK"/>）</p></definition>
+  <definition><p id="_4777b11f-3b43-48d6-bc39-03819ea4b96d">内核，完整或破损，由于水分，害虫，疾病或其他原因而显示明显劣化，但不包括 <em>HDK</em>（<xref target="HDK"/>）</p></definition>
 </term>
 <term id="_string_language_en_immature_kernel_string_string_language_zh_string"><preferred language="en">immature kernel</preferred> <preferred language="zh">未成熟内核</preferred>
   <admitted language="zh">未成熟内核</admitted> <admitted language="en">unripe kernel</admitted>
 
-<definition><p id="_b2b93833-25b9-4d49-be41-7d4a20fbc45f">未成熟和/或发育不全的、完整或破碎的内核</p></definition></term>
-<term id="_string_language_en_husked_rice_yield_string_string_language_zh_string"><preferred language="en">husked rice yield</preferred> <preferred language="zh">糙米产量</preferred><definition><p id="_21a9e9b8-ac6f-48e8-9d64-60beceab7448">从水稻获得的糙米量</p></definition>
+<definition><p id="_f0124990-8b79-4bfd-af13-2d30b8518cf1">未成熟和/或发育不全的、完整或破碎的内核</p></definition></term>
+<term id="_string_language_en_husked_rice_yield_string_string_language_zh_string"><preferred language="en">husked rice yield</preferred> <preferred language="zh">糙米产量</preferred><definition><p id="_a04d543d-11ab-45b4-83a6-8a88f58624ac">从水稻获得的糙米量</p></definition>
 <termsource status="modified">
   <origin bibitemid="ISO6646" type="inline" citeas="ISO 6646"/>
   <modification>
-    <p id="_b6d66010-05ba-41c3-b2fa-68b39bd53741">3.1</p>
+    <p id="_f5dd8d61-5d55-44e3-ab71-f94bb47fb258">3.1</p>
   </modification>
 </termsource></term>
-<term id="_string_language_en_nitrogen_content_string_string_language_zh_string"><preferred language="en">nitrogen content</preferred> <preferred language="zh">氮含量</preferred><definition><p id="_387c8456-fdaf-4003-aeec-1d1197a3aaa3">在执行所述程序后确定的氮量</p></definition>
-<termnote id="_7992c221-f547-4a00-b628-389a34b0e3b7">
-  <p id="_91300e4d-664f-460f-8cdc-f0ca723d5084">表示为干产品的质量分数，以百分比表示。</p>
+<term id="_string_language_en_nitrogen_content_string_string_language_zh_string"><preferred language="en">nitrogen content</preferred> <preferred language="zh">氮含量</preferred><definition><p id="_77ca94db-a4ab-49f9-9f9c-8f95baba0f2c">在执行所述程序后确定的氮量</p></definition>
+<termnote id="_a921d03b-a875-44bf-904b-9f01831fce47">
+  <p id="_af0ba6f6-4fc6-4d35-b986-e7459b644d39">表示为干产品的质量分数，以百分比表示。</p>
 </termnote>
 <termsource status="modified">
   <origin bibitemid="ISO20483" type="inline" citeas="ISO 20483: 2013"/>
   <modification>
-    <p id="_39698b7c-5a4e-4aaa-a131-acb845b5f154">3.1</p>
+    <p id="_0aa6af0f-570f-48e3-8c0c-6ad72c8183e7">3.1</p>
   </modification>
 </termsource></term>
-<term id="_string_language_en_crude_protein_content_string_string_language_zh_string"><preferred language="en">crude protein content</preferred> <preferred language="zh">粗蛋白含量</preferred><definition><p id="_1f7ee17a-6d0a-4bf0-8a39-c1c2e18543e1">通过应用特定方法确定的由氮含量获得的粗蛋白质的量，通过将该含量乘以取决于谷类或脉冲的类型的适当因子</p></definition>
-<termnote id="_f64c46a2-4738-499b-bea2-9706022235f5">
-  <p id="_f6d8d4e8-fe28-4d9b-b8b4-ec2b89e616f0">表示为干产品的质量分数，以百分比表示。</p>
+<term id="_string_language_en_crude_protein_content_string_string_language_zh_string"><preferred language="en">crude protein content</preferred> <preferred language="zh">粗蛋白含量</preferred><definition><p id="_c47769a4-0a0f-4e87-b96a-d8a167304d74">通过应用特定方法确定的由氮含量获得的粗蛋白质的量，通过将该含量乘以取决于谷类或脉冲的类型的适当因子</p></definition>
+<termnote id="_3cccb29a-3c9d-4137-a0ff-e5919ad27fa0">
+  <p id="_ff18e929-c304-4c1e-9111-a5bc0316414e">表示为干产品的质量分数，以百分比表示。</p>
 </termnote>
 <termsource status="modified">
   <origin bibitemid="ISO20483" type="inline" citeas="ISO 20483: 2013"/>
   <modification>
-    <p id="_a02bdc82-8765-4e3c-b73b-6cd4ab634be0">3.2</p>
+    <p id="_8b6eeacd-55c7-4ee2-8ab5-d58ed00086d0">3.2</p>
   </modification>
 </termsource></term>
-<term id="gelatinization"><preferred language="en">gelatinization</preferred> <preferred language="zh">糊化</preferred><definition><p id="_19b71496-9611-42d9-b082-ab0e3ab45925">在稻米内核的水合过程中，赋予凝胶状物的凝胶状状态，凝胶状物质称为凝胶状物</p></definition>
-<termnote id="_193a7e0a-9708-4aaa-9aa3-91115db8d89d">
-  <p id="_e741df32-5db1-4b68-bbc8-188781d8485a">请见图<xref target="figureC-1"/>.</p>
+<term id="gelatinization"><preferred language="en">gelatinization</preferred> <preferred language="zh">糊化</preferred><definition><p id="_3f7f6c1c-5b02-43ed-b866-83138fb92307">在稻米内核的水合过程中，赋予凝胶状物的凝胶状状态，凝胶状物质称为凝胶状物</p></definition>
+<termnote id="_1f60b726-f0ac-4e7c-b29f-910aaaf5034e">
+  <p id="_d07a74fb-c441-4395-9210-cf83cd08bf1b">请见图<xref target="figureC-1"/>.</p>
 </termnote>
 <termsource status="modified">
   <origin bibitemid="ISO14864" type="inline" citeas="ISO 14864: 1998"/>
   <modification>
-    <p id="_9dc7ad3e-c9fa-4f15-8a5c-31cd84909ed4">3.1</p>
+    <p id="_129241d5-8913-44a3-8fd0-a6d81c1ee11d">3.1</p>
   </modification>
 </termsource></term>
-<term id="gel_state"><preferred language="en">gel state</preferred> <preferred language="zh">凝胶状态</preferred><definition><p id="_e2d9b679-3484-4ecb-9e15-3f36374840d9">condition reached as a consequence of <em>gelatinization</em> (<xref target="gelatinization"/>), when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets</p><p id="_8a8d23e1-6764-433a-996a-6bf451a7c3b8">通过糊化（<xref target="gelatinization"/>）而达到的状态，内核是完全透明，并且当在两块玻璃板之间压制后完全没有白色和不透明内核</p></definition>
+<term id="gel_state"><preferred language="en">gel state</preferred> <preferred language="zh">凝胶状态</preferred><definition><p id="_39e1b3db-1ae2-4e60-898d-6c2d041029cc">condition reached as a consequence of <em>gelatinization</em> (<xref target="gelatinization"/>), when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets</p><p id="_79b3fed8-7ac6-478a-b75f-53865c3ac167">通过糊化（<xref target="gelatinization"/>）而达到的状态，内核是完全透明，并且当在两块玻璃板之间压制后完全没有白色和不透明内核</p></definition>
 
 <termsource status="modified">
   <origin bibitemid="ISO14864" type="inline" citeas="ISO 14864: 1998"/>
   <modification>
-    <p id="_a82c67bf-5101-4955-a6da-b4428e25c551">3.2</p>
+    <p id="_8f690264-61da-4e6a-90e7-8f7bf04db906">3.2</p>
   </modification>
 </termsource></term>
 <term id="_string_language_en_gelatinization_time_string_string_language_zh_string"><preferred language="en">gelatinization time</preferred> <preferred language="zh">糊化时间</preferred><admitted language="zh"><stem type="AsciiMath">_90</stem></admitted> <admitted language="en"><stem type="AsciiMath">t_90</stem></admitted>
-<definition><p id="_72b0ca90-be60-43ad-8d92-734baf0c4654">90％的谷粒从其自然状态转变为 <em>凝胶状态</em> （<xref target="gel_state"/>）所需的时间</p></definition>
+<definition><p id="_ab69dfc6-2674-4efe-b177-a28d758f7293">90％的谷粒从其自然状态转变为 <em>凝胶状态</em> （<xref target="gel_state"/>）所需的时间</p></definition>
 <termsource status="modified">
   <origin bibitemid="ISO14864" type="inline" citeas="ISO 14864: 1998"/>
   <modification>
-    <p id="_b0b445dc-3c15-41d0-beab-2bb55d0623ca">3.3</p>
+    <p id="_a10d3c52-64ee-47d7-a4f8-6f9e50675e14">3.3</p>
   </modification>
 </termsource></term></terms>
-<clause id="_规格" inline-header="false" obligation="normative"><title>规格</title><clause id="_一般_感官和健康特征" inline-header="false" obligation="normative"><title>一般，感官和健康特征</title><p id="_ca14a6c9-1fdf-4a4e-805d-8cd229506ce1">大米的谷粒，无论是煮过的，去皮的还是碾磨的，以及整个还是破碎的，都应该是健康的，干净的，没有异味或异味，表明其变质。</p>
-<p id="_bc3b5e96-860f-4e48-b5eb-c0cc56ec0506">添加剂和杀虫剂残留物及其他污染物的含量不得超过目的地国允许的最大限量。</p>
-<p id="_8b4bae42-675c-4d19-ae95-66a0353d5842">不允许肉眼可见的活昆虫的存在。 在将大块样品分离为测试样品之前应该确定这一点。</p></clause>
-<clause id="_物理和化学特性" inline-header="false" obligation="normative"><title>物理和化学特性</title><clause id="_d3df28e4-795a-4670-87a0-e03ced6ca2d8" inline-header="false" obligation="normative"><p id="_260f63d2-5c38-4faa-b366-b415ecc562d1">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2: 1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn reference="2">
-  <p id="_959ee4cf-9ee2-40f6-a5e6-965363653ee3">从前表示为15％（m/米）。</p>
+<clause id="_规格" inline-header="false" obligation="normative"><title>规格</title><clause id="_一般_感官和健康特征" inline-header="false" obligation="normative"><title>一般，感官和健康特征</title><p id="_57fda266-e723-4df3-9ea0-05c84df2d34b">大米的谷粒，无论是煮过的，去皮的还是碾磨的，以及整个还是破碎的，都应该是健康的，干净的，没有异味或异味，表明其变质。</p>
+<p id="_f8691696-ca69-475e-a54a-fbcada5e6e39">添加剂和杀虫剂残留物及其他污染物的含量不得超过目的地国允许的最大限量。</p>
+<p id="_89de0d5e-130c-48cc-8cb0-dcc0560dc53c">不允许肉眼可见的活昆虫的存在。 在将大块样品分离为测试样品之前应该确定这一点。</p></clause>
+<clause id="_物理和化学特性" inline-header="false" obligation="normative"><title>物理和化学特性</title><clause id="_20590508-78db-49c1-b83e-48dfefe24e15" inline-header="false" obligation="normative"><p id="_4fb03b1c-f735-4195-a679-07762a4b1c32">根据<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>，使用符合<eref type="inline" bibitemid="IEC61010-2" citeas="IEC 61010-2: 1998"/>要求的烤箱测定的水分质量分数不得大于15％。<fn reference="2">
+  <p id="_cd94b45b-a9cd-445c-a8c1-e0b56954463c">从前表示为15％（m/米）。</p>
 </fn></p>
-<p id="_201247c8-e682-445b-a5f4-8dd2ecef7f1a">根据<xref target="AnnexA"/>，确定的糙米和精米中外来物质和有缺陷谷粒的质量分数，无论是否煮熟，均不得大于<xref target="table1"/>中规定的数值。</p>
-<note id="_c71ab174-4ec6-4e48-894d-241d9993930d">
-  <p id="_75e5829f-26a1-4cca-9b27-3b5000395bb8">根据气候，运输和储存的持续时间，某些目的地有时需要较低的湿度质量分数。 有关更多详细信息，请参见<eref type="inline" bibitemid="ISO6322-1" citeas="ISO 6322-1"/>，<eref type="inline" bibitemid="ISO6322-2" citeas="ISO 6322-2"/>和<eref type="inline" bibitemid="ISO6322-3" citeas="ISO 6322-3"/>。</p>
+<p id="_201b539a-48cf-4e6f-afc4-86b945284adc">根据<xref target="AnnexA"/>，确定的糙米和精米中外来物质和有缺陷谷粒的质量分数，无论是否煮熟，均不得大于<xref target="table1"/>中规定的数值。</p>
+<note id="_7cdd5d81-918d-43a1-a4e7-68d8c30517e5">
+  <p id="_9aed420e-b7fe-4890-8c4a-a724a9fd7e39">根据气候，运输和储存的持续时间，某些目的地有时需要较低的湿度质量分数。 有关更多详细信息，请参见<eref type="inline" bibitemid="ISO6322-1" citeas="ISO 6322-1"/>，<eref type="inline" bibitemid="ISO6322-2" citeas="ISO 6322-2"/>和<eref type="inline" bibitemid="ISO6322-3" citeas="ISO 6322-3"/>。</p>
 </note></clause>
-<clause id="_2" inline-header="false" obligation="normative"><p id="_06101ef2-0431-48a1-8b58-15af1d1a5443">按照<xref target="AnnexA"/>中给出的方法考虑的类别的缺陷容差不得超过<xref target="table1"/>中给出的限制。</p>
+<clause id="_2" inline-header="false" obligation="normative"><p id="_0335a676-3c18-4769-abb8-ee622ca985f8">按照<xref target="AnnexA"/>中给出的方法考虑的类别的缺陷容差不得超过<xref target="table1"/>中给出的限制。</p>
 <table id="table1">
   <name>缺陷的最大允许质量分数</name>
   <thead>
@@ -253,7 +253,7 @@ World<br/>
     
     <tr>
       <td align="left">外来物质：有机物<fn reference="a">
-  <p id="_0477bb22-3062-4f69-9bf8-a5fbec1990e9">有机杂质包括外来种子，外壳，麸皮，稻草等部分。</p>
+  <p id="_3b217766-a4b6-4d5e-9234-34f970f4e972">有机杂质包括外来种子，外壳，麸皮，稻草等部分。</p>
 </fn></td>
       <td align="center">1,0</td>
       <td align="center">0,5</td>
@@ -262,7 +262,7 @@ World<br/>
     </tr>
     <tr>
       <td align="left">外来物质：无机物<fn reference="b">
-  <p id="_4fbe7510-4606-45f5-b1b2-d9356d14bc1c">无机杂质包括石头，沙子，灰尘等。</p>
+  <p id="_95f39607-766c-4512-88a8-46e731d5b717">无机杂质包括石头，沙子，灰尘等。</p>
 </fn></td>
       <td align="center">0,5</td>
       <td align="center">0,5</td>
@@ -314,11 +314,11 @@ World<br/>
     <tr>
       <td align="left">HDK</td>
       <td align="center">2,0<fn reference="c">
-  <p id="_8d7dc502-a87b-4bb6-b5b1-811b61d2fcb2">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_1a644740-08bd-422e-859f-d05b924258c4">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">2,0</td>
       <td align="center">2,0<fn reference="c">
-  <p id="_d33fcfd0-d2e4-42d7-85e6-ddeeb13f325c">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_0ca2d36f-aa2e-4880-bdae-5b155000b619">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">2,0</td>
     </tr>
@@ -339,7 +339,7 @@ World<br/>
     <tr>
       <td align="left">垩白粒</td>
       <td align="center">5,0<fn reference="c">
-  <p id="_d8a5ae46-1ca6-4af4-b434-55ef2cc533c5">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_cb0e955a-4761-43e7-88e9-640fedbf3ddb">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">5,0</td>
       <td align="center">不适用</td>
@@ -350,7 +350,7 @@ World<br/>
       <td align="center">12,0</td>
       <td align="center">12,0</td>
       <td align="center">12,0<fn reference="c">
-  <p id="_0f9a5908-5b58-42f6-97be-1d80015bfe3b">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_c0853569-e8e9-4e75-898b-64457d60c2dd">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">12,0</td>
     </tr>
@@ -359,7 +359,7 @@ World<br/>
       <td align="center">不适用</td>
       <td align="center">不适用</td>
       <td align="center">11,0<fn reference="c">
-  <p id="_3c71c96a-8ad4-4fad-a26b-d4dc8f20660f">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_9692faac-527a-4059-9bc1-59f6735eea85">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">11,0</td>
     </tr>
@@ -373,11 +373,11 @@ World<br/>
     <tr>
       <td align="left">糯米</td>
       <td align="center">1,0<fn reference="c">
-  <p id="_024b6ef2-244a-4901-877d-a65e75642733">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_555ee78e-3b08-4c15-bbb2-974ecbdd8653">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">1,0</td>
       <td align="center">1,0<fn reference="c">
-  <p id="_ace05b28-dc78-4604-be78-68cab923190e">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
+  <p id="_5f16a6db-b9cd-45e4-aee6-7043b62192a3">缺陷的最大允许质量分数应根据研磨后获得的质量分数确定。</p>
 </fn></td>
       <td align="center">1,0</td>
     </tr>
@@ -385,100 +385,100 @@ World<br/>
   <tfoot>
     <tr>
       <td colspan="5" align="left">
-        <p id="_68f11977-3c03-445c-8aeb-f2ab14a2ddf4">活昆虫不得存在。 死虫应包含在异物中。</p>
+        <p id="_4511cd56-446c-4bfe-8dea-49b821b25197">活昆虫不得存在。 死虫应包含在异物中。</p>
       </td>
     </tr>
   </tfoot>
-<note id="_fb7d9c60-0803-482b-a4c3-dbe3ad13d2b3">
-  <p id="_9d8dc45b-3eae-4b4e-be43-749c179450d6">该表基于<eref type="inline" bibitemid="ISO7301" citeas="ISO 7301: 2011"/>表1。</p>
-</note><note id="_7bb430c8-cc15-499c-aa95-d636e4cbeaf6">
-  <p id="_13a7946f-ade6-4841-aec4-6f6da765a54a">除了本表中提供的信息外，一些商业合同还需要信息。</p>
-</note><note id="_5498938a-3e04-41bc-b749-d783d3ef7707">
-  <p id="_6af5b2cf-78c9-4f39-b516-c72179c9415b">本表仅考虑全红面包（货）米。</p>
+<note id="_a9b95ec7-1405-4c1f-80b7-236bf243c89f">
+  <p id="_4a145851-18bd-4232-9b59-8d02adea6a3b">该表基于<eref type="inline" bibitemid="ISO7301" citeas="ISO 7301: 2011"/>表1。</p>
+</note><note id="_08ebd6b9-9291-4475-9690-38a6bda42e41">
+  <p id="_0adf1265-68b4-4195-a190-f2f6ea18553d">除了本表中提供的信息外，一些商业合同还需要信息。</p>
+</note><note id="_72576d43-4636-4b39-bd2f-9aaa7ddcabb4">
+  <p id="_fe6f5f83-ac2f-4f0d-ad0e-adeb7334d5ca">本表仅考虑全红面包（货）米。</p>
 </note></table>
 
 
 </clause></clause></clause>
 <clause id="clause5" inline-header="false" obligation="normative">
   <title>采样</title>
-  <p id="_56e8cc59-f532-4a97-94ee-58cf813ec9f0">采样应按照<eref type="inline" bibitemid="ISO24333" citeas="ISO 24333: 2009"/>，第5章.</p>
+  <p id="_165d27f1-2d2b-4108-90ee-b033392151b0">采样应按照<eref type="inline" bibitemid="ISO24333" citeas="ISO 24333: 2009"/>，第5章.</p>
 </clause>
 <clause id="_测试方法" inline-header="false" obligation="normative"><title>测试方法</title><clause id="_含水量" inline-header="false" obligation="normative">
   <title>含水量</title>
-  <p id="_9f309df9-117b-4e8e-affe-8c804d3afd3e">按照<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>中规定的方法确定湿度的质量分数。</p>
+  <p id="_b15e1fd4-3a60-4fa3-b4ee-3fa6526af1b7">按照<eref type="inline" bibitemid="ISO712" citeas="ISO 712"/>中规定的方法确定湿度的质量分数。</p>
 </clause>
 <clause id="_糯米含量" inline-header="false" obligation="normative">
   <title>糯米含量</title>
-  <p id="_bd4841a3-33aa-4c06-894f-e46d63c71cae">确定糯米的质量分数。 <xref target="AnnexB "/>给出了一个合适方法的例子。</p>
+  <p id="_d1d9c706-6903-46a2-84ab-fa26679423e8">确定糯米的质量分数。 <xref target="AnnexB "/>给出了一个合适方法的例子。</p>
 </clause>
-<clause id="_氮含量和粗蛋白质含量" inline-header="false" obligation="normative"><title>氮含量和粗蛋白质含量</title><p id="_4122fb58-74f6-4b5e-94cb-a53ec862ebbd">根据<eref type="inline" bibitemid="ISO16634" citeas="ISO 16634: --"/>，第9章或<eref type="inline" bibitemid="ISO20483" citeas="ISO 20483: 2013"/>确定氮含量和粗蛋白质含量。 有关使用凯氏定氮法测定蛋白质含量的详细信息，请参见参考书目中的参考文献&lt;&lt; ref12 &gt;&gt;。 有关使用Dumas方法的详细信息，请参见参考资料<eref type="inline" bibitemid="ref10" citeas="[10]"/>和<eref type="inline" bibitemid="ref16" citeas="[16]"/>。</p>
-<p id="_cc93946c-6da7-452b-96a0-3c1ca7f25460">通过将氮含量乘以<eref type="inline" bibitemid="ISO20483" citeas="ISO 20483: 2013"/>，附录C和表C.1中规定的转换系数，计算出干品的粗蛋白质含量，并根据谷类或豆类的类型进行调整。<eref type="footnote" bibitemid="ref13" citeas="[13]"/><eref type="footnote" bibitemid="ref14" citeas="[14]"/>和它们的用法。</p></clause>
-<clause id="_糊化时间" inline-header="false" obligation="normative"><title>糊化时间</title><p id="_ced8c7d6-5d1d-4f0a-9344-7a7e3969e065">确定糊化时间，<stem type="AsciiMath">t_90</stem>，用于米粒在烹饪过程中。 <xref target="figureC-1"/>中给出了一个典型曲线的例子。 <xref target="figureC-2"/>中显示了三个典型的糊化阶段。</p>
-<p id="_0b7c7883-b667-4010-bd1f-428d1950b064">按照<xref target="clause7"/>中的规定报告结果。</p></clause>
-<clause id="_糙米产量" inline-header="false" obligation="normative"><title>糙米产量</title><clause id="_判定" inline-header="false" obligation="normative"><title>判定</title><admonition id="_f54aa600-1267-4385-971b-c409d640e0cb" type="caution">
-  <p id="_74dcd47f-c7d2-40e9-aced-98d163a9ebb2">只能用水稻或煮米饭来确定糙米产量。</p>
+<clause id="_氮含量和粗蛋白质含量" inline-header="false" obligation="normative"><title>氮含量和粗蛋白质含量</title><p id="_2c983fdc-be3a-4872-a106-6f3c080f7c91">根据<eref type="inline" bibitemid="ISO16634" citeas="ISO 16634: --"/>，第9章或<eref type="inline" bibitemid="ISO20483" citeas="ISO 20483: 2013"/>确定氮含量和粗蛋白质含量。 有关使用凯氏定氮法测定蛋白质含量的详细信息，请参见参考书目中的参考文献&lt;&lt; ref12 &gt;&gt;。 有关使用Dumas方法的详细信息，请参见参考资料<eref type="inline" bibitemid="ref10" citeas="[10]"/>和<eref type="inline" bibitemid="ref16" citeas="[16]"/>。</p>
+<p id="_49443bbf-a66d-4a23-91e1-61ccde44b740">通过将氮含量乘以<eref type="inline" bibitemid="ISO20483" citeas="ISO 20483: 2013"/>，附录C和表C.1中规定的转换系数，计算出干品的粗蛋白质含量，并根据谷类或豆类的类型进行调整。<eref type="footnote" bibitemid="ref13" citeas="[13]"/><eref type="footnote" bibitemid="ref14" citeas="[14]"/>和它们的用法。</p></clause>
+<clause id="_糊化时间" inline-header="false" obligation="normative"><title>糊化时间</title><p id="_2e16910d-9a9f-4ef9-8750-a59b986ca4ed">确定糊化时间，<stem type="AsciiMath">t_90</stem>，用于米粒在烹饪过程中。 <xref target="figureC-1"/>中给出了一个典型曲线的例子。 <xref target="figureC-2"/>中显示了三个典型的糊化阶段。</p>
+<p id="_73df730a-ec77-4697-8809-5b0a349f2f3b">按照<xref target="clause7"/>中的规定报告结果。</p></clause>
+<clause id="_糙米产量" inline-header="false" obligation="normative"><title>糙米产量</title><clause id="_判定" inline-header="false" obligation="normative"><title>判定</title><admonition id="_d1d46d28-00ef-455f-b281-262646731d82" type="caution">
+  <p id="_8cc41e01-6fe4-49f2-93fd-520b8eb75966">只能用水稻或煮米饭来确定糙米产量。</p>
 </admonition>
-<p id="_2337291d-4c54-4994-8870-870745f4fffa">根据<eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>确定糙米产量。</p></clause>
-<clause id="_精确" inline-header="false" obligation="normative"><title>精确</title><clause id="_实验室间测试" inline-header="false" obligation="normative"><title>实验室间测试</title><p id="_be965c23-002a-4532-a0ef-e20a44b3558d">The results of an interlaboratory test are given in <xref target="AnnexD"/> for information</p>
-<p id="_f6801d1d-2912-44e5-9c40-34115abde615">实验室间试验的结果在<xref target="AnnexD"/>中提供以供参考。</p></clause>
-<clause id="_重复性" inline-header="false" obligation="normative"><title>重复性</title><p id="_3720ce57-9529-499f-bc48-9b2e92548b79">同一个实验室在同一实验室使用相同的方法在相同的实验室中使用相同的设备在短时间间隔内使用相同的设备获得的两个独立的单一测试结果之间的绝对差值不得超过干的值的算术平均值<stem type="AsciiMath">r</stem>从超过5％的情况下对稻谷的实验室间研究中获得：</p>
-<formula id="_bd75da89-faa7-41a2-83af-050a90674d1c">
+<p id="_d81aa881-ce89-4cda-b52d-657e89c875c0">根据<eref type="inline" bibitemid="ISO6646" citeas="ISO 6646"/>确定糙米产量。</p></clause>
+<clause id="_精确" inline-header="false" obligation="normative"><title>精确</title><clause id="_实验室间测试" inline-header="false" obligation="normative"><title>实验室间测试</title><p id="_a3fed027-8971-436b-8428-654312585970">The results of an interlaboratory test are given in <xref target="AnnexD"/> for information</p>
+<p id="_839db80d-c1ab-42d2-8fad-16ee342ff369">实验室间试验的结果在<xref target="AnnexD"/>中提供以供参考。</p></clause>
+<clause id="_重复性" inline-header="false" obligation="normative"><title>重复性</title><p id="_eab03843-3e82-4ffe-97c0-6387906e21ea">同一个实验室在同一实验室使用相同的方法在相同的实验室中使用相同的设备在短时间间隔内使用相同的设备获得的两个独立的单一测试结果之间的绝对差值不得超过干的值的算术平均值<stem type="AsciiMath">r</stem>从超过5％的情况下对稻谷的实验室间研究中获得：</p>
+<formula id="_9e03f62d-a27f-4325-a56e-d35430366ba3">
   <stem type="AsciiMath">r = 1 %</stem>
 </formula>
-<p id="_d976f14a-6774-4e50-b406-5cbb2762ecf2">式中：</p>
-<dl id="_fb1ebd62-0ebb-4660-a685-bd9387c45dec">
+<p id="_1d962da0-c8fd-48fc-9cd5-2884008cfed5">式中：</p>
+<dl id="_40165b53-5e33-48fe-8407-6ded69b222f0">
   <dt>
     <stem type="AsciiMath">r</stem>
   </dt>
   <dd>
-    <p id="_53d69e04-1aad-4834-9341-d40a4275d240">是重复性极限。</p>
+    <p id="_f9d4b876-bb87-436d-b23e-adec65adf105">是重复性极限。</p>
   </dd>
 </dl></clause>
-<clause id="_再生性" inline-header="false" obligation="normative"><title>再生性</title><p id="_6dc7506b-8827-4886-a4d1-40a2077c69f2">不同实验室使用不同设备的相同测试材料，在同一测试材料上获得的两个单一测试结果的绝对差值，不得超过实验室间研究中获得的<stem type="AsciiMath">R</stem>值的算术平均值，超过5 %的实验：</p>
-<formula id="_124fb2de-6366-4243-9680-4f8c48f2f801">
+<clause id="_再生性" inline-header="false" obligation="normative"><title>再生性</title><p id="_e03db1e9-7cd4-48ac-81c7-d756810d07d9">不同实验室使用不同设备的相同测试材料，在同一测试材料上获得的两个单一测试结果的绝对差值，不得超过实验室间研究中获得的<stem type="AsciiMath">R</stem>值的算术平均值，超过5 %的实验：</p>
+<formula id="_651281b8-ef28-4a29-a444-2120bf0cd36d">
   <stem type="AsciiMath">R = 3 %</stem>
 </formula>
-<p id="_6c1bfd5e-fe3a-4344-903b-4001f4261c1b">式中：</p>
-<dl id="_10cff968-f61e-4248-a587-6bbaea733b54">
+<p id="_f1be4cfc-f512-4cb6-9fda-089bc748ee7f">式中：</p>
+<dl id="_f99ccc43-ba69-4eaf-8770-e1c946511754">
   <dt>
     <stem type="AsciiMath">R</stem>
   </dt>
   <dd>
-    <p id="_8020c9d7-b820-4c05-a27c-5c2528ca1eb9">是重现性限制。</p>
+    <p id="_da44eff6-0186-444d-880d-6884bb60f85c">是重现性限制。</p>
   </dd>
 </dl></clause></clause></clause></clause>
-<clause id="clause7" inline-header="false" obligation="normative"><title>测试报告</title><p id="_67eb6682-462f-4de4-a632-a58d6cb05a53">对于每种测试方法，测试报告应指定以下内容：</p>
-<ol id="_76c782a5-4fd2-41ac-b30b-a048f5c73443" type="alphabet">
+<clause id="clause7" inline-header="false" obligation="normative"><title>测试报告</title><p id="_ca38abad-e2e4-4a94-b016-3a534165896e">对于每种测试方法，测试报告应指定以下内容：</p>
+<ol id="_8a2f1bcd-adfb-4d75-9b61-c9695ae17f7d" type="alphabet">
   <li>
-    <p id="_0572783e-8ce8-4917-a018-7c589018ba69">所有完整识别样本所需的信息；</p>
+    <p id="_bc182b53-d8d9-44c8-b86b-bebc610d0826">所有完整识别样本所需的信息；</p>
   </li>
   <li>
-    <p id="_5547c48e-e3cc-4cfd-905b-3387e88ad819">对本文件的引用 (即 ISO 80021-1)；</p>
+    <p id="_77d805e3-8431-4304-b3ac-ebab193a6faa">对本文件的引用 (即 ISO 80021-1)；</p>
   </li>
   <li>
-    <p id="_157b690f-2f03-4d3c-9c93-82776de7ef50">采用的抽样方法；</p>
+    <p id="_221bb465-7f59-419a-898b-5f0d266f02af">采用的抽样方法；</p>
   </li>
   <li>
-    <p id="_bb9a6a1c-0aab-4308-a6f6-ad6b04efee87">使用的测试方法；</p>
+    <p id="_a6f6c822-665a-4043-a1d9-83dd65c7e3ba">使用的测试方法；</p>
   </li>
   <li>
-    <p id="_949ecb36-bf54-4909-b7a5-689d062c28dd">所获得的测试结果，或者如果重复性已被检查，则获得最终的报告结果；</p>
+    <p id="_87832740-4b38-4565-b8f3-cab7f39d9c1c">所获得的测试结果，或者如果重复性已被检查，则获得最终的报告结果；</p>
   </li>
   <li>
-    <p id="_10591815-946a-4ce6-9c68-42ef86309add">所有未在本文件中规定或视为可选的操作细节，以及可能影响测试结果的任何事件的详细信息；</p>
+    <p id="_77d6990f-10df-4246-9907-a6aec4cdf8b1">所有未在本文件中规定或视为可选的操作细节，以及可能影响测试结果的任何事件的详细信息；</p>
   </li>
   <li>
-    <p id="_fd64352b-e870-4bb9-b947-65c9f97782f0">在测试过程中观察到的任何异常特征（异常）；</p>
+    <p id="_5bdded06-e466-4f85-a256-c27f92535084">在测试过程中观察到的任何异常特征（异常）；</p>
   </li>
   <li>
-    <p id="_266fe5c3-ccc5-42a6-8597-b1735059e4c8">测试的日期。</p>
+    <p id="_83e69450-4287-42a0-9255-e8045bb3bf94">测试的日期。</p>
   </li>
 </ol></clause>
-<clause id="_包装" inline-header="false" obligation="normative"><title>包装</title><p id="_fa6d03a3-212b-4ae8-ae08-6e9ad6413b40">包装不得将任何气味或味道传递给产品，也不得包含可能损害产品或构成健康风险的物质。</p>
-<p id="_13cefe31-5979-496b-9075-68c4893372dc">如果使用袋子，则应符合<xref target="ISO8531-1"/>第9条或<eref type="inline" bibitemid="ISO8351-2" citeas="ISO 8351-2"/>的要求。</p></clause>
+<clause id="_包装" inline-header="false" obligation="normative"><title>包装</title><p id="_e233ce22-0942-4c79-95e2-6e5f1695972e">包装不得将任何气味或味道传递给产品，也不得包含可能损害产品或构成健康风险的物质。</p>
+<p id="_502e3d87-222c-41e8-ae2d-888ddc73725e">如果使用袋子，则应符合<xref target="ISO8531-1"/>第9条或<eref type="inline" bibitemid="ISO8351-2" citeas="ISO 8351-2"/>的要求。</p></clause>
 <clause id="_印记" inline-header="false" obligation="normative">
   <title>印记</title>
-  <p id="_e5e427e6-4616-4316-a477-f572972e347c">包装应按照目的地国家的要求标记或标签。</p>
+  <p id="_18c96d46-77af-467b-b012-4ed4f27b9f9d">包装应按照目的地国家的要求标记或标签。</p>
 </clause>
 
 
@@ -486,16 +486,16 @@ World<br/>
 
 </sections><annex id="AnnexA" inline-header="false" obligation="normative"><title>缺陷的确定</title><clause id="_原理" inline-header="false" obligation="normative">
   <title>原理</title>
-  <p id="_d5ca6f06-33e2-4583-abe3-4cdd0c66d5b2">根据以下类型手动分离外来物质，破碎的内核，破损的内核和其他类型的大米：糙米，精米，外壳糙米和碾米。 然后称重每种类型。</p>
+  <p id="_24b0f92b-0f50-4424-9a5d-4b0ace8653a3">根据以下类型手动分离外来物质，破碎的内核，破损的内核和其他类型的大米：糙米，精米，外壳糙米和碾米。 然后称重每种类型。</p>
 </clause>
-<clause id="_仪器" inline-header="false" obligation="normative"><title>仪器</title><p id="_debfe777-c848-4bd3-a45d-d790f2c61b6c">通常的实验室设备，特别是以下。</p>
+<clause id="_仪器" inline-header="false" obligation="normative"><title>仪器</title><p id="_2360e21e-f2b2-4e5c-9ee8-f8f27f4caffa">通常的实验室设备，特别是以下。</p>
 <clause id="AnnexA-2-1" inline-header="true" obligation="normative">
   <title>样品分配器，</title>
-  <p id="_83123919-d289-4259-8913-fa9ac94d7022">由具有分配系统的圆锥形样品分配器或多槽样品分配器组成，例如， “Split-it-right-right”示例分频器，如<xref target="figureA-1"/>中所示。</p>
+  <p id="_c26c59fd-76cb-44e2-b0ed-bddb563c0839">由具有分配系统的圆锥形样品分配器或多槽样品分配器组成，例如， “Split-it-right-right”示例分频器，如<xref target="figureA-1"/>中所示。</p>
 </clause>
 <clause id="_筛" inline-header="true" obligation="normative">
   <title>筛,</title>
-  <p id="_5d36083a-0da8-4a4a-b2a7-1ede8171e2d2">筛孔直径为1.4毫米的圆形穿孔。</p>
+  <p id="_4ebe6b5f-a1bb-4cee-a628-fbdc3dccab4a">筛孔直径为1.4毫米的圆形穿孔。</p>
 </clause>
 <clause id="_镊子" inline-header="true" obligation="normative">
   <title>镊子.</title>
@@ -508,75 +508,75 @@ World<br/>
 </clause>
 <clause id="AnnexA-2-6" inline-header="true" obligation="normative">
   <title>钢碗,</title>
-  <p id="_27f4ed8e-2982-46b3-9900-5c2fb4d8e278">直径100毫米±5毫米; 每个测试样本7个。</p>
+  <p id="_ba0c2f47-a0ec-4f6d-a71b-0026d9cf4735">直径100毫米±5毫米; 每个测试样本7个。</p>
 </clause>
 <clause id="_秤" inline-header="true" obligation="normative">
   <title>秤,</title>
-  <p id="_e730d843-bd95-4f40-b5fb-2f912ce4caf5">可以读取到最接近的0.01克。</p>
+  <p id="_e73bb2b9-aa3f-4c80-9756-b4372e2ba5f6">可以读取到最接近的0.01克。</p>
 </clause></clause>
 <clause id="_采样" inline-header="false" obligation="normative">
   <title>采样</title>
-  <p id="_583b215f-a86b-4be5-8308-490478971ae1">请见<xref target="clause5"/>.</p>
+  <p id="_f8326618-efe1-45ba-b339-022bf1a7396b">请见<xref target="clause5"/>.</p>
 </clause>
 <clause id="_程序" inline-header="false" obligation="normative">
   <title>程序</title>
-  <clause id="AnnexA-4-1" inline-header="false" obligation="normative"><title>测试样品的制备</title><p id="_9cf75eae-076e-4bab-8ed2-fa8d1998cdfd">小心地混合实验室样品使其尽可能均匀，然后使用分隔器（<xref target="AnnexA-2-1"/>）进行减少，直到获得约30g的量。</p>
-<p id="_7988a7fb-f592-4537-96c1-afd934fab789">卡在滤网孔中的所有颗粒都应该被认为是被滤网截留的。</p>
+  <clause id="AnnexA-4-1" inline-header="false" obligation="normative"><title>测试样品的制备</title><p id="_20604db8-c07e-4f3e-8b5b-06103ac3899e">小心地混合实验室样品使其尽可能均匀，然后使用分隔器（<xref target="AnnexA-2-1"/>）进行减少，直到获得约30g的量。</p>
+<p id="_ab53a9c9-b74a-4049-9773-c8028a6dd114">卡在滤网孔中的所有颗粒都应该被认为是被滤网截留的。</p>
 <figure id="figureA-1">
   <name>Split-it-right 样本分频器</name>
-  <image src="rice_images/rice_image1.png" id="_3f03f4ef-f425-4078-8a7a-0c25c850430f" imagetype="PNG"/>
+  <image src="rice_images/rice_image1.png" id="_d2100491-3ea0-4d51-bdeb-5f3234be7c72" imagetype="PNG"/>
 </figure></clause>
 </clause>
-<clause id="_判定_2" inline-header="false" obligation="normative"><title>判定</title><p id="_c1227552-8c6a-45b4-a9bc-1fd95e2437ac">按照<xref target="AnnexA-4-1"/>的规定，将其中一个测试样品称重，精确至0.1g，并将不同的缺陷分成碗（<xref target="AnnexA-2-6"/>）。 当内核有多个缺陷时，将其分类到最大允许值最低的缺陷类别（参见<xref target="table1"/>）。</p>
-<p id="_be689f75-581a-4293-8435-089067c7f4e7">称重，精确至0.01克，得到的馏分。</p></clause>
-<clause id="_计算" inline-header="false" obligation="normative"><title>计算</title><p id="_6231dac1-b417-4d86-8cfc-6e993c584ecf">用（<xref target="formulaA-1"/>）公式表示每个缺陷的质量分数:</p>
+<clause id="_判定_2" inline-header="false" obligation="normative"><title>判定</title><p id="_baa1567b-094f-4d6c-93dd-ef42e3924f93">按照<xref target="AnnexA-4-1"/>的规定，将其中一个测试样品称重，精确至0.1g，并将不同的缺陷分成碗（<xref target="AnnexA-2-6"/>）。 当内核有多个缺陷时，将其分类到最大允许值最低的缺陷类别（参见<xref target="table1"/>）。</p>
+<p id="_f0d15eb3-5cdc-4da1-ac5b-ed1e4334c7fb">称重，精确至0.01克，得到的馏分。</p></clause>
+<clause id="_计算" inline-header="false" obligation="normative"><title>计算</title><p id="_c663e3f5-cf87-42fc-8b2d-e477236ab451">用（<xref target="formulaA-1"/>）公式表示每个缺陷的质量分数:</p>
 <formula id="formulaA-1">
   <stem type="AsciiMath">w = (m_D) / (m_s)</stem>
 </formula>
-<p id="_22474ee0-d8b3-4491-817f-d4956a6cd0f9">式中：</p>
-<dl id="_2e5fd6e6-b051-4a20-91a6-a4819570a39b">
+<p id="_eaf522ac-adc5-4df3-91a9-b983e582f1dd">式中：</p>
+<dl id="_01c2196a-9fcb-400d-838e-93e25558c262">
   <dt>
     <stem type="AsciiMath">w</stem>
   </dt>
   <dd>
-    <p id="_acf43f43-45be-439b-a31c-e1300d454fa2">是测试样品中具有特定缺陷的晶粒的质量分数；</p>
+    <p id="_f3235fd4-1a78-4123-b264-65c3cc4d30bc">是测试样品中具有特定缺陷的晶粒的质量分数；</p>
   </dd>
   <dt>
     <stem type="AsciiMath">m_D</stem>
   </dt>
   <dd>
-    <p id="_56a7c06f-7c67-464b-a19e-dff9706c9060">是具有该缺陷的颗粒的质量，以克为单位；</p>
+    <p id="_96474977-3511-4b65-a7f2-6910202413d2">是具有该缺陷的颗粒的质量，以克为单位；</p>
   </dd>
   <dt>
     <stem type="AsciiMath">m_S</stem>
   </dt>
   <dd>
-    <p id="_ebdc6b9f-72c5-4354-b448-f7c8b2f72979">是测试样品的质量，以克为单位。</p>
+    <p id="_0e55e186-b79f-4317-b19d-b0e0442e30f2">是测试样品的质量，以克为单位。</p>
   </dd>
 </dl></clause>
 <clause id="_测试报告" inline-header="false" obligation="normative">
   <title>测试报告</title>
-  <p id="_28f5c661-24c1-47da-8ba6-0ee6b5bbc410">按照<xref target="clause7"/>中的规定报告结果。</p>
+  <p id="_294faece-ec7f-48cf-8400-d607525cd457">按照<xref target="clause7"/>中的规定报告结果。</p>
 </clause></annex><annex id="AnnexB" inline-header="false" obligation="normative"><title>蒸米饭中糯米含量的测定</title><clause id="_原理_2" inline-header="false" obligation="normative">
   <title>原理</title>
-  <p id="_e8a9b133-52bf-4caa-8c12-aa5f6d023d43">糯米粒在碘溶液中染色时具有红棕色，而非糯米粒显示深蓝色。</p>
+  <p id="_b7bf15d2-1beb-42cc-b3c4-9f65fadda7d2">糯米粒在碘溶液中染色时具有红棕色，而非糯米粒显示深蓝色。</p>
 </clause>
-<clause id="_仪器_2" inline-header="false" obligation="normative"><title>仪器</title><p id="_0c045025-d020-4525-a16b-f74dc81b74bd">通常的实验室设备，特别是以下。</p>
+<clause id="_仪器_2" inline-header="false" obligation="normative"><title>仪器</title><p id="_35c7814d-ec1a-4a9a-a682-8a58d68aee8f">通常的实验室设备，特别是以下。</p>
 <clause id="AnnexB-2-1" inline-header="true" obligation="normative">
   <title>秤，</title>
-  <p id="_5bfb7ff0-f933-4548-8224-a4f9d229fc21">能够称量到最接近的0.01克。</p>
+  <p id="_fc16ccd2-c327-497e-9206-0fd16da60443">能够称量到最接近的0.01克。</p>
 </clause>
 <clause id="AnnexB-2-2" inline-header="true" obligation="normative">
   <title>玻璃烧杯,</title>
-  <p id="_251bc2b3-d1e4-404c-a374-179c6adcf5ab">容量250毫升。</p>
+  <p id="_0c39af90-fff7-4adc-a11f-8389db57b427">容量250毫升。</p>
 </clause>
 <clause id="AnnexB-2-3" inline-header="true" obligation="normative">
   <title>小白色彩色碗，</title>
-  <p id="_e4f82828-e5c5-4bd0-b5e9-ba28f2ab9d01">或任何合适尺寸的白色容器。</p>
+  <p id="_b28b576e-6198-4641-8356-2873647827ce">或任何合适尺寸的白色容器。</p>
 </clause>
 <clause id="AnnexB-2-4" inline-header="true" obligation="normative">
   <title>铁丝筛，</title>
-  <p id="_1ef09394-1971-4b6c-8756-bf08c102a1a6">长圆形的孔(1 mm <stem type="AsciiMath">{:(+0.02),(0):}</stem> mm <stem type="AsciiMath">times</stem> 20 mm <stem type="AsciiMath">{:(+2),(-1):}</stem> mm）。</p>
+  <p id="_8ec7a427-fe9c-42a0-83d1-f64fa4b4eb64">长圆形的孔(1 mm <stem type="AsciiMath">{:(+0.02),(0):}</stem> mm <stem type="AsciiMath">times</stem> 20 mm <stem type="AsciiMath">{:(+2),(-1):}</stem> mm）。</p>
 </clause>
 <clause id="AnnexB-2-5" inline-header="true" obligation="normative">
   <title>搅拌棒。</title>
@@ -587,117 +587,117 @@ World<br/>
 <clause id="AnnexB-2-7" inline-header="true" obligation="normative">
   <title>棉纸。</title>
 </clause></clause>
-<clause id="_试剂" inline-header="false" obligation="normative"><title>试剂</title><admonition id="_b1877942-327e-4582-88cb-41b47d7f64c8" type="warning">
-  <p id="_693e0fa0-5f0d-4303-817c-b2eef84eb9e9">碘与皮肤直接接触会引起损伤，所以在处理碘时应该小心。 碘蒸气对眼睛和粘膜非常刺激。</p>
+<clause id="_试剂" inline-header="false" obligation="normative"><title>试剂</title><admonition id="_ef7e75b8-f3b6-4029-8b96-ddc476c5d4dc" type="warning">
+  <p id="_db661305-673d-41a7-b9d1-81007b2b95c3">碘与皮肤直接接触会引起损伤，所以在处理碘时应该小心。 碘蒸气对眼睛和粘膜非常刺激。</p>
 </admonition>
 <clause id="AnnexB-3-1" inline-header="true" obligation="normative">
   <title>去离子水，</title>
-  <p id="_3c4448fc-cbd4-42c3-ac55-e376cfbb4ea9"><eref type="inline" bibitemid="ISO3696" citeas="ISO 3696"/>中规定的3级质量。</p>
+  <p id="_c3e00bc0-b7b7-46fd-91ba-b7557efa14e3"><eref type="inline" bibitemid="ISO3696" citeas="ISO 3696"/>中规定的3级质量。</p>
 </clause>
 <clause id="AnnexB-3-2" inline-header="true" obligation="normative">
   <title>碘储备液，</title>
-  <p id="_04cf2b28-efe6-4ffb-9d6e-952a6a14f3f6">包含质量分数为4,1％碘和6,3％碘化钾的去离子水，如Lugols。<fn reference="3">
-  <p id="_a1e3aa34-2119-4886-a2e5-bad0c977ff88">Lugols是商业上合适的产品的一个例子。 这些信息是为了方便本文档的用户而提供的，并不构成对此产品的认可。</p>
+  <p id="_9f1819c6-1b06-48b6-ae0c-4869ee68c3d4">包含质量分数为4,1％碘和6,3％碘化钾的去离子水，如Lugols。<fn reference="3">
+  <p id="_ef046fba-828a-48c0-9dc8-881163a07719">Lugols是商业上合适的产品的一个例子。 这些信息是为了方便本文档的用户而提供的，并不构成对此产品的认可。</p>
 </fn></p>
 </clause>
-<clause id="AnnexB-3-3" inline-header="true" obligation="normative"><title>碘工作液，</title><p id="_7eaa6e0b-ccbc-4b83-8375-3142f148ca8f">通过用去离子水稀释原液（<xref target="AnnexB-3-2"/>）两次（按体积）获得的碘工作溶液（<xref target="AnnexB-3-1"/>）。</p>
-<p id="_0e04e7f5-10d0-416a-9c84-a825a119930f">每天重新准备。</p></clause></clause>
+<clause id="AnnexB-3-3" inline-header="true" obligation="normative"><title>碘工作液，</title><p id="_8248497b-55e1-4b61-b866-76555962dc04">通过用去离子水稀释原液（<xref target="AnnexB-3-2"/>）两次（按体积）获得的碘工作溶液（<xref target="AnnexB-3-1"/>）。</p>
+<p id="_f53d1f36-03f4-4883-9f55-2b66125c60a1">每天重新准备。</p></clause></clause>
 <clause id="_采样_2" inline-header="false" obligation="normative">
   <title>采样</title>
-  <p id="_19b2e0e2-18da-4cb5-85ab-5e72f678ee35">采样应按照<xref target="clause5"/>进行。</p>
+  <p id="_e8a2762e-d8b3-4e9b-831a-7c8cadf67f08">采样应按照<xref target="clause5"/>进行。</p>
 </clause>
 <clause id="_判定_3" inline-header="false" obligation="normative"><title>判定</title><clause id="_3" inline-header="false" obligation="normative">
   
-  <p id="_98279cc7-03a6-414d-ac8b-3a509dad9f1c">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2"/>）。</p>
+  <p id="_4ea6f683-23ae-4092-b06e-7273e872e1a2">称取约100克精米的一部分，放入玻璃烧杯中（<xref target="AnnexB-2-2"/>）。</p>
 </clause>
 <clause id="_4" inline-header="false" obligation="normative">
   
-  <p id="_111e4277-6554-4d3d-9504-7c781c4efa08">加入足够的碘工作溶液（<xref target="AnnexB-3-3 "/>）浸泡谷物，并搅拌（<xref target="AnnexB-2-5"/>），直到所有谷物都浸没在溶液中。 让内核在溶液中浸泡30秒。</p>
+  <p id="_b5742b59-1389-411c-b3ec-0fe95d8a319f">加入足够的碘工作溶液（<xref target="AnnexB-3-3 "/>）浸泡谷物，并搅拌（<xref target="AnnexB-2-5"/>），直到所有谷物都浸没在溶液中。 让内核在溶液中浸泡30秒。</p>
 </clause>
 <clause id="_5" inline-header="false" obligation="normative">
   
-  <p id="_2fa9c8c9-425b-4a99-99fd-637f0c8198d8">将米和溶液倒入铁丝筛（<xref target="AnnexB-2-4 "/>）中，稍微摇动篮子以排出溶液。 然后将棉纸放置在铁丝筛（<xref target="AnnexB-2-7 "/>）上以吸收多余的液体。</p>
+  <p id="_15a9f874-105d-4490-adbf-b787ceeb820a">将米和溶液倒入铁丝筛（<xref target="AnnexB-2-4 "/>）中，稍微摇动篮子以排出溶液。 然后将棉纸放置在铁丝筛（<xref target="AnnexB-2-7 "/>）上以吸收多余的液体。</p>
 </clause>
 <clause id="_6" inline-header="false" obligation="normative">
   
-  <p id="_dcbe2a72-bbc8-4722-89c0-d0dbca1bb149">将染色的核仁倒入碗中（<xref target="AnnexB-2-3"/>）。 使用镊子或镊子（<xref target="AnnexB-2-6 "/>），将糯米的红棕色内核与非糯米的深蓝色内核分开。</p>
+  <p id="_125d7601-6bcf-4705-a9af-2068d23d5068">将染色的核仁倒入碗中（<xref target="AnnexB-2-3"/>）。 使用镊子或镊子（<xref target="AnnexB-2-6 "/>），将糯米的红棕色内核与非糯米的深蓝色内核分开。</p>
 </clause>
 <clause id="_7" inline-header="false" obligation="normative">
   
-  <p id="_729d1a53-672b-4994-a3bf-3f92ebaec720">将糯米部分（<stem type="AsciiMath">m_1</stem>）和非糯米部分（<stem type="AsciiMath">m_2</stem>）称量至最接近的0.1g。</p>
+  <p id="_4ffdf9b8-3342-4125-bdab-422a7cb30fc3">将糯米部分（<stem type="AsciiMath">m_1</stem>）和非糯米部分（<stem type="AsciiMath">m_2</stem>）称量至最接近的0.1g。</p>
 </clause></clause>
-<clause id="_计算_2" inline-header="false" obligation="normative"><title>计算</title><p id="_cd514326-9304-48de-83bd-f699c3896343">使用公式（<xref target="formulaB-1 "/>）计算糯米，<stem type="AsciiMath">w_(wax)</stem>的质量分数，以百分比表示：</p>
+<clause id="_计算_2" inline-header="false" obligation="normative"><title>计算</title><p id="_60ce8216-b737-4479-9adc-e7f7b5d24ba8">使用公式（<xref target="formulaB-1 "/>）计算糯米，<stem type="AsciiMath">w_(wax)</stem>的质量分数，以百分比表示：</p>
 <formula id="formulaB-1">
   <stem type="AsciiMath">w_(wax) = (m_1) / (m_1 + m_2) xx 100</stem>
 </formula>
-<p id="_3ff921d1-3b14-4d9a-9126-45a93a9749ab">式中：</p>
-<dl id="_c48a36d5-61f3-4516-bd39-e7be69eb67cb">
+<p id="_da4d4218-c3f2-4807-8072-976b6cd743f9">式中：</p>
+<dl id="_172faaff-cbc6-4bea-8380-f38893f2f1e5">
   <dt>
     <stem type="AsciiMath">m_1</stem>
   </dt>
   <dd>
-    <p id="_99d9ad16-5cbb-4493-b97a-643252f88851">是糯米部分的质量，用克表示；</p>
+    <p id="_6bdfcd30-a8b6-497d-bded-8949214421b1">是糯米部分的质量，用克表示；</p>
   </dd>
   <dt>
     <stem type="AsciiMath">m_2</stem>
   </dt>
   <dd>
-    <p id="_2a1cdf01-bbe0-4aab-b110-b6d33d4dca65">是非糯米部分的质量，用克表示。</p>
+    <p id="_f577f173-00e9-4ba5-97d3-e5c34cae2685">是非糯米部分的质量，用克表示。</p>
   </dd>
 </dl></clause>
 <clause id="_测试报告_2" inline-header="false" obligation="normative">
   <title>测试报告</title>
-  <p id="_8898ee2f-f4da-432e-aef2-6f50d8cfbb95">按照<xref target="clause7 "/>中的规定报告结果，并使用公式（<xref target="formulaB-1 "/>）计算结果。</p>
-</clause></annex><annex id="AnnexC" inline-header="false" obligation="normative"><title>糊化</title><p id="_e0acee0e-4f25-4f2d-ad92-794dd405e715"><xref target="figureC-1"/>给出了典型的糊化曲线的例子。 <xref target="figureC-2"/>显示了糊化的三个阶段。</p>
+  <p id="_8456bdfb-b65e-426e-90d6-00d7701bfdf3">按照<xref target="clause7 "/>中的规定报告结果，并使用公式（<xref target="formulaB-1 "/>）计算结果。</p>
+</clause></annex><annex id="AnnexC" inline-header="false" obligation="normative"><title>糊化</title><p id="_8a3e6c78-afcc-4a86-a78d-d5f5e16088c3"><xref target="figureC-1"/>给出了典型的糊化曲线的例子。 <xref target="figureC-2"/>显示了糊化的三个阶段。</p>
 <figure id="figureC-1">
   <name>典型糊化曲线</name>
-  <image src="rice_images/rice_image2.png" id="_de74911c-87e3-463a-98ca-72e49e9d7b38" imagetype="PNG"/>
+  <image src="rice_images/rice_image2.png" id="_8959a3c7-9ac1-4297-a0c4-07f47aa31cdc" imagetype="PNG"/>
 <fn reference="a">
-  <p id="_d1e450a9-c238-4776-b98e-dc73c219fad0">此例子的时间<stem type="AsciiMath">t_90</stem>估计为18,2分钟。</p>
+  <p id="_5ce4d54a-e605-4a75-b14d-4b15d76f4736">此例子的时间<stem type="AsciiMath">t_90</stem>估计为18,2分钟。</p>
 </fn></figure>
 
-<p id="_dbe38526-378d-4ce6-93a0-df2105eada8b">
+<p id="_42b3131a-0ec9-40fe-abde-c972d5f1c3bc">
   <strong>图例</strong>
 </p>
-<dl id="_cdc55736-1b85-4665-968d-86978db08976">
+<dl id="_0b9a73b7-d2e5-48a7-a4f3-df9d4f46dc72">
   <dt>
     <stem type="AsciiMath">w</stem>
   </dt>
   <dd>
-    <p id="_46060c18-1c82-4d43-8e10-476c1a015320">以百分比表示的糊化颗粒的质量分数</p>
+    <p id="_6e80bed7-254b-46eb-9c8e-a379e4112e68">以百分比表示的糊化颗粒的质量分数</p>
   </dd>
   <dt>
     <stem type="AsciiMath">t</stem>
   </dt>
   <dd>
-    <p id="_0fc9ff38-a10e-4dc4-97c2-ac0c9e35d2d1">烹饪时间，以分钟表示</p>
+    <p id="_9c81ca5a-a766-4096-abd1-0a029e015d08">烹饪时间，以分钟表示</p>
   </dd>
   <dt>
     <stem type="AsciiMath">t_90</stem>
   </dt>
   <dd>
-    <p id="_87aa4fce-f9a0-475b-9f8f-a63647bedab0">将90％的内核糊化所需的时间</p>
+    <p id="_b1478a31-f021-4973-91e5-32d801b55f3e">将90％的内核糊化所需的时间</p>
   </dd>
   <dt>P</dt>
   <dd>
-    <p id="_25d43de8-08b1-4449-9d20-bb22e9352d76">曲线的点对应于<stem type="AsciiMath">t_90</stem>的烹饪时间</p>
+    <p id="_cf3be0e7-b89d-43c5-893e-7e07938ff94a">曲线的点对应于<stem type="AsciiMath">t_90</stem>的烹饪时间</p>
   </dd>
-<note id="_49b173f6-5602-4f87-87f9-852bc3a64418">
-  <p id="_0d0444de-ca2f-4da1-ab49-5deb347afa1d">这些结果是基于对三种不同类型内核的研究。</p>
+<note id="_49c6bba9-c3e3-4379-b627-8e75d15f4a9c">
+  <p id="_eaf73a95-c996-4979-b0e0-6394a470d22f">这些结果是基于对三种不同类型内核的研究。</p>
 </note></dl>
 
-<figure id="figureC-2"><figure id="_411bd2fa-c399-41b8-bb90-205613498925">
+<figure id="figureC-2"><figure id="_14edb55d-01eb-4b86-b71a-37926db4bad5">
   <name>初始阶段：没有谷物完全糊化（谷粒内可见未糊化的淀粉颗粒）</name>
-  <image src="rice_images/rice_image3_1.png" id="_a0777502-e08b-49b3-8072-7c292c264431" imagetype="PNG"/>
+  <image src="rice_images/rice_image3_1.png" id="_ae19c395-fd7f-44fe-977c-3a5832a96537" imagetype="PNG"/>
 </figure>
-<figure id="_76642db1-a804-4d45-8d84-94a7dd0b8995">
+<figure id="_13570f63-60a3-4215-8825-db122df2696b">
   <name>中间阶段：一些完全糊化的核心是可见的</name>
-  <image src="rice_images/rice_image3_2.png" id="_50843c44-1116-4bab-8e86-90ae561aef96" imagetype="PNG"/>
+  <image src="rice_images/rice_image3_2.png" id="_51d00a7c-22d5-41ba-974e-a87bd82fd466" imagetype="PNG"/>
 </figure>
-<figure id="_509c28c5-57ed-454a-9ce0-9cf9f48616f9">
+<figure id="_eae1d56a-af02-4f47-ac79-0decdc00228a">
   <name>最后阶段：所有的谷物都完全糊化</name>
-  <image src="rice_images/rice_image3_3.png" id="_1ec84f9a-d5ab-4abf-b820-3e9a2c197a52" imagetype="PNG"/>
-</figure></figure></annex><annex id="AnnexD" inline-header="false" obligation="normative"><title>稻谷产量的实验室间试验结果</title><p id="_64e9bf73-fb98-46fd-a903-b7217822b554">ENR [水稻研究中心（意大利）]在根据<eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1"/>和<eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2"/>要求下，於
+  <image src="rice_images/rice_image3_3.png" id="_093e97f6-06ee-4d28-aca4-9899f0a05ed5" imagetype="PNG"/>
+</figure></figure></annex><annex id="AnnexD" inline-header="false" obligation="normative"><title>稻谷产量的实验室间试验结果</title><p id="_0df5ec77-b947-4253-a9c5-dd6339be30ef">ENR [水稻研究中心（意大利）]在根据<eref type="inline" bibitemid="ISO5725-1" citeas="ISO 5725-1"/>和<eref type="inline" bibitemid="ISO5725-2" citeas="ISO 5725-2"/>要求下，於
 15个实验室的参与下进行了实验室间实验<eref type="inline" bibitemid="ref15" citeas="[15]"/>。 每个实验室对四种不同类型的核进行了三次测定。
 统计结果显示在<xref target="tableD-1"/>中。</p>
 <table id="tableD-1">
@@ -710,7 +710,7 @@ World<br/>
     <tr>
       <td align="left">Arborio</td>
       <td align="center">Drago<fn reference="a">
-  <p id="_ead90978-b14f-4a08-acb5-8bd8e1939147">半熟米</p>
+  <p id="_c205c366-9b93-401b-ab6e-62976d38a6a8">半熟米</p>
 </fn></td>
       <td align="center">Balilla</td>
       <td align="center">Thaibonnet</td>
@@ -772,7 +772,7 @@ World<br/>
       <td align="center">6,06</td>
     </tr>
   </tbody>
-</table></annex><bibliography><references id="_规范性引用文件" obligation="informative"><title>Normative References</title><p id="_b20de0fa-6dde-4982-aa17-bb6ae92c9620">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
+</table></annex><bibliography><references id="_规范性引用文件" obligation="informative"><title>Normative References</title><p id="_3eb90635-b9f8-4164-b2e1-d2aca370e0a0">下列文件对于本文件的应用是必不可少的。凡是注日期的引用文件，仅注日期的版本适用于本文件。凡是不注日期的引用文件，其最新版本（包括所有的修改单）适用于本文件。</p>
 <bibitem id="ISO712" type="standard">
   <title format="text/plain">谷物和谷类产品水分含量的测定参考方法，Cereals and cereal products — Determination of moisture content — Reference method</title>
   <docidentifier>ISO 712</docidentifier>
