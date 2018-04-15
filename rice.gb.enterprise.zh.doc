@@ -1,7 +1,7 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_2c037c78.9482.4864"
+Content-Type: multipart/related; boundary="----=_NextPart_a67b0b52.da90.4533"
 
-------=_NextPart_2c037c78.9482.4864
+------=_NextPart_a67b0b52.da90.4533
 Content-Location: file:///C:/Doc/rice.gb.enterprise.zh.htm
 Content-Type: text/html; charset="utf-8"
 
@@ -3375,7 +3375,7 @@ span.en {
   <table cellpadding="0" cellspacing="0" width="100%">
    <tr>
     <td>
-    <div v:shape="fmFrame2" style="padding:0pt 0pt 0pt 0pt" class="shape"></div><p class="standard_class"><span lang="ZH-CN" xml:lang="ZH-CN"><span>Acme Inc.&#x4F01;&#x4E1A;&#x6807;&#x51C6;</span></span></p></td>
+    <div v:shape="fmFrame2" style="padding:0pt 0pt 0pt 0pt" class="shape"></div><p class="standard_class"><span>Acme Inc.&#x4F01;&#x4E1A;&#x6807;&#x51C6;</span></p></td>
     </tr>
     </table>
    </span>
@@ -3577,24 +3577,31 @@ span.en {
       <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="16.20cm" align="center" style="border-collapse:collapse;mso-table-layout-alt:&#10;     fixed;mso-padding-alt:0cm;">
      <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;&#10;      height:1.38cm">
       
-      <td valign="middle" style="padding:0cm;&#10;      height:1.38cm"></td><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none"><span>Acme Inc.</span></p></tr>
-            </table>
+      <td valign="middle" style="padding:0cm;&#10;      height:1.38cm"></td><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none">Acme Inc.</p>
+            </tr>
             
             <td valign="middle" style="padding:0cm 0.3cm 0cm 1.0cm"><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none">&#x53D1;</p></td><td valign="middle"><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none">&#x5E03;</p></td>
             
-      </div></td>
-     </tr></table></span>
-    </td>
+      </table></div>
+     </td></tr></table>
+    </span>
     
     <p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" xml:lang="EN-US"><p class="MsoNormal">&#xA0;</p></span></p>
     
-    </tr></table>
-   </span>
-  <div style="mso-element:footnote-list"/></body>
-  </html>
+    </td></tr>
+   </table>
+  </span>
+  <div style="mso-element:footnote-list"/></body>&#xA0;
+ 
 
 
-------=_NextPart_2c037c78.9482.4864
+
+
+
+</html>
+
+
+------=_NextPart_a67b0b52.da90.4533
 Content-Location: file:///C:/Doc/rice.gb.enterprise.zh_files/filelist.xml
 Content-Transfer-Encoding: base64
 Content-Type: application/xml
@@ -3604,7 +3611,7 @@ ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uL3JpY2UuZ2IuZW50ZXJwcmlzZS56aC5odG0iLz4g
 IDxvOkZpbGUgSFJlZj0iZmlsZWxpc3QueG1sIi8+CiAgPG86RmlsZSBIUmVmPSJoZWFkZXIuaHRt
 bCIvPgo8L3htbD4K
 
-------=_NextPart_2c037c78.9482.4864
+------=_NextPart_a67b0b52.da90.4533
 Content-Location: file:///C:/Doc/rice.gb.enterprise.zh_files/header.html
 Content-Transfer-Encoding: base64
 Content-Type: text/html charset="utf-8"
@@ -3775,4 +3782,4 @@ bGFzcz1Nc29QYWdlTnVtYmVyPjxzcGFuIGxhbmc9RU4tVVMgc3R5bGU9J2ZvbnQtZmFtaWx5OlNp
 bVN1bic+PG86cD48L286cD48dzpzZHRQcj48L3c6c2R0UHI+PC9zcGFuPjwvc3Bhbj48L3A+DQoN
 CjwvZGl2Pg0KDQo8L2JvZHk+DQoNCjwvaHRtbD4NCg==
 
-------=_NextPart_2c037c78.9482.4864--
+------=_NextPart_a67b0b52.da90.4533--

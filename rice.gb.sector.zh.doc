@@ -1,7 +1,7 @@
 MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_b98395b8.3cf9.46e7"
+Content-Type: multipart/related; boundary="----=_NextPart_2953a5f8.876d.4a7c"
 
-------=_NextPart_b98395b8.3cf9.46e7
+------=_NextPart_2953a5f8.876d.4a7c
 Content-Location: file:///C:/Doc/rice.gb.sector.zh.htm
 Content-Type: text/html; charset="utf-8"
 
@@ -3375,7 +3375,7 @@ span.en {
   <table cellpadding="0" cellspacing="0" width="100%">
    <tr>
     <td>
-    <div v:shape="fmFrame2" style="padding:0pt 0pt 0pt 0pt" class="shape"></div><p class="standard_class"><span lang="ZH-CN" xml:lang="ZH-CN"><span>&#x4E2D;&#x534E;&#x4EBA;&#x6C11;&#x5171;&#x548C;&#x56FD;&#x7CAE;&#x98DF;&#x884C;&#x4E1A;&#x6807;&#x51C6;</span></span></p></td>
+    <div v:shape="fmFrame2" style="padding:0pt 0pt 0pt 0pt" class="shape"></div><p class="standard_class"><span>&#x4E2D;&#x534E;&#x4EBA;&#x6C11;&#x5171;&#x548C;&#x56FD;&#x7CAE;&#x98DF;&#x884C;&#x4E1A;&#x6807;&#x51C6;</span></p></td>
     </tr>
     </table>
    </span>
@@ -3577,24 +3577,31 @@ span.en {
       <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="16.20cm" align="center" style="border-collapse:collapse;mso-table-layout-alt:&#10;     fixed;mso-padding-alt:0cm;">
      <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes;&#10;      height:1.38cm">
       
-      <td valign="middle" style="padding:0cm;&#10;      height:1.38cm"></td><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none"><span>&#x56FD;&#x5BB6;&#x7CAE;&#x98DF;&#x5C40;</span></p></tr>
-            </table>
+      <td valign="middle" style="padding:0cm;&#10;      height:1.38cm"></td><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none">&#x56FD;&#x5BB6;&#x7CAE;&#x98DF;&#x5C40;</p>
+            </tr>
             
             <td valign="middle" style="padding:0cm 0.3cm 0cm 1.0cm"><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none">&#x53D1;</p></td><td valign="middle"><p class="standard_agency" style="text-align:justify;text-justify:distribute-all-lines;&#10;      layout-grid-mode:char;mso-layout-grid-align:none">&#x5E03;</p></td>
             
-      </div></td>
-     </tr></table></span>
-    </td>
+      </table></div>
+     </td></tr></table>
+    </span>
     
     <p class="MsoNormal" align="left" style="text-align:left"><span lang="EN-US" xml:lang="EN-US"><p class="MsoNormal">&#xA0;</p></span></p>
     
-    </tr></table>
-   </span>
-  <div style="mso-element:footnote-list"/></body>
-  </html>
+    </td></tr>
+   </table>
+  </span>
+  <div style="mso-element:footnote-list"/></body>&#xA0;
+ 
 
 
-------=_NextPart_b98395b8.3cf9.46e7
+
+
+
+</html>
+
+
+------=_NextPart_2953a5f8.876d.4a7c
 Content-Location: file:///C:/Doc/rice.gb.sector.zh_files/filelist.xml
 Content-Transfer-Encoding: base64
 Content-Type: application/xml
@@ -3604,7 +3611,7 @@ ICAgICAgIDxvOk1haW5GaWxlIEhSZWY9Ii4uL3JpY2UuZ2Iuc2VjdG9yLnpoLmh0bSIvPiAgPG86
 RmlsZSBIUmVmPSJmaWxlbGlzdC54bWwiLz4KICA8bzpGaWxlIEhSZWY9ImhlYWRlci5odG1sIi8+
 CjwveG1sPgo=
 
-------=_NextPart_b98395b8.3cf9.46e7
+------=_NextPart_2953a5f8.876d.4a7c
 Content-Location: file:///C:/Doc/rice.gb.sector.zh_files/header.html
 Content-Transfer-Encoding: base64
 Content-Type: text/html charset="utf-8"
@@ -3775,4 +3782,4 @@ ZW5kaWZdLS0+PHNwYW4NCiAgIGNsYXNzPU1zb1BhZ2VOdW1iZXI+PHNwYW4gbGFuZz1FTi1VUyBz
 dHlsZT0nZm9udC1mYW1pbHk6U2ltU3VuJz48bzpwPjwvbzpwPjx3OnNkdFByPjwvdzpzZHRQcj48
 L3NwYW4+PC9zcGFuPjwvcD4NCg0KPC9kaXY+DQoNCjwvYm9keT4NCg0KPC9odG1sPg0K
 
-------=_NextPart_b98395b8.3cf9.46e7--
+------=_NextPart_2953a5f8.876d.4a7c--
