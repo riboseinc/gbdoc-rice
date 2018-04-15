@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/asciidoctor-gb
-  revision: 330f6abdc51ca635f552668345b348d5e83024af
+  revision: f82f14abdfc1d86b73e3e5117fbbfd85661defe6
   specs:
     asciidoctor-gb (0.2.0)
       asciidoctor (~> 1.5.6)
