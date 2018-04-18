@@ -164,8 +164,6 @@ NOTE: 请见图<<figureC-1>>.
 [[gel_state]]
 === [en]#gel state# [zh]#凝胶状态#
 
-condition reached as a consequence of _gelatinization_ (<<gelatinization>>), when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets
-
 通过糊化（<<gelatinization>>）而达到的状态，内核是完全透明，并且当在两块玻璃板之间压制后完全没有白色和不透明内核
 
 [.source]
