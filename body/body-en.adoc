@@ -78,8 +78,8 @@ The following documents are referred to in the text in such a way that some or a
 
 :sectnums!:
 [[paddy]]
-=== [en]#paddy# [zh]#水稻#
-[alt]#rough rice 糙米#
+=== [en]#paddy# [zh]#稻谷#
+[alt]#糙米 rough rice#
 
 rice retaining its husk after threshing
 
@@ -87,32 +87,32 @@ rice retaining its husk after threshing
 <<ISO7301,section 3.1>>
 
 [[husked_rice]]
-=== husked rice
-[deprecated]#cargo rice#
+=== [en]#husked rice# [zh]#糙米#
+[deprecated]#货米 cargo rice#
 
 _paddy_ (<<paddy>>) from which the husk only has been removed
 
 [.source]
 <<ISO7301>>, 3.2, The term "cargo rice" is shown as deprecated, and Note 1 to entry is not included here
 
-=== milled rice
-[alt]#white rice#
+=== [en]#milled rice# [zh]#精米#
+[alt]#白米 white rice#
 
 _husked rice_ (<<husked_rice>>) from which almost all of the bran and embryo have been removed by milling
 
 [.source]
 <<ISO7301>>, 3.3
 
-=== parboiled rice
+=== [en]#parboiled rice# [zh]#熟米饭#
 
 rice whose starch has been fully gelatinized by soaking _paddy_ (<<paddy>>) rice or _husked rice_ (<<husked_rice>>) in water followed by a heat treatment and a drying process
 
-=== waxy rice
+=== [en]#waxy rice# [zh]#糯米#
 variety of rice whose kernels have a white and opaque appearance
 
 NOTE: The starch of waxy rice consists almost entirely of amylopectin. The kernels have a tendency to stick together after cooking.
 
-=== extraneous matter
+=== [en]#extraneous matter# [zh]#异物#
 [alt]#EM#
 [domain]#rice#
 
@@ -123,28 +123,28 @@ Foreign seeds, husks, bran, sand, dust.
 
 [[HDK]]
 === HDK
-[alt]#heat-damaged kernel#
+[alt]#热损内核 heat-damaged kernel#
 
 kernel, whole or broken, which has changed its normal colour as a result of heating
 
 NOTE: This category includes whole or broken kernels that are yellow due to alteration. Parboiled rice in a batch of non-parboiled rice is also included in this category.
 
-=== damaged kernel
+=== [en]#damaged kernel# [zh]#损内核#
 kernel, whole or broken, showing obvious deterioration due to moisture, pests, disease or other causes, but excluding _HDK_ (<<HDK>>)
 
-=== immature kernel
-[alt]#unripe kernel#
+=== [en]#immature kernel# [zh]#未成熟内核#
+[alt]#未成熟内核 unripe kernel#
 
 kernel, whole or broken, which is unripe and/or underdeveloped
 
-=== husked rice yield
+=== [en]#husked rice yield# [zh]#糙米产量#
 amount of husked rice obtained from paddy
 
 // all terms and defs references are dated
 [.source]
 <<ISO6646>>, 3.1
 
-=== nitrogen content
+=== [en]#nitrogen content# [zh]#氮含量#
 quantity of nitrogen determined after application of the procedure described
 
 NOTE: It is expressed as a mass fraction of dry product, as a percentage.
@@ -152,7 +152,7 @@ NOTE: It is expressed as a mass fraction of dry product, as a percentage.
 [.source]
 <<ISO20483>>, 3.1
 
-=== crude protein content
+=== [en]#crude protein content# [zh]#粗蛋白含量#
 quantity of crude protein obtained from the nitrogen content as determined by applying the specified method, calculated by multiplying this content by an appropriate factor depending on the type of cereal or pulse
 
 NOTE: It is expressed as a mass fraction of dry product, as a percentage.
@@ -161,7 +161,7 @@ NOTE: It is expressed as a mass fraction of dry product, as a percentage.
 <<ISO20483>>, 3.2
 
 [[gelatinization]]
-=== gelatinization
+=== [en]#gelatinization# [zh]#糊化#
 hydration process conferring the jelly-like state typical of the coagulated colloids, which are named gels, on kernels
 
 NOTE: See <<figureC-1>>.
@@ -170,13 +170,13 @@ NOTE: See <<figureC-1>>.
 <<ISO14864>>, 3.1
 
 [[gel_state]]
-=== gel state
+=== [en]#gel state# [zh]#凝胶状态#
 condition reached as a consequence of _gelatinization_ (<<gelatinization>>), when the kernel is fully transparent and absolutely free from whitish and opaque granules after being pressed between two glass sheets
 
 [.source]
 <<ISO14864>>, 3.2
 
-=== gelatinization time
+=== [en]#gelatinization time# [zh]#糊化时间#
 stem:[t_90]
 
 time necessary for 90 % of the kernels to pass from their natural state to the _gel state_ (<<gel_state>>)

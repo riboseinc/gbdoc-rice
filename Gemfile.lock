@@ -12,7 +12,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/asciidoctor-gb
-  revision: acceb87372487cb2ef907479551e398e0927e080
+  revision: 6901126f88abe800a1f2bc0247e0fe22ef4a57ea
   specs:
     asciidoctor-gb (0.2.0)
       asciidoctor (~> 1.5.6)
@@ -31,7 +31,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/asciidoctor-iso
-  revision: 4beb9e497b13a370dbbb80f2178abd6d988d036d
+  revision: a80c8e4405134b4806eb60a36b3df41a7d45a620
   specs:
     asciidoctor-iso (0.7.3)
       asciidoctor (~> 1.5.6)
@@ -46,7 +46,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/html2doc
-  revision: 998fefd7825f7aecea37bd8788d5c38e06f5295e
+  revision: 6a1577902a0a978382f5a5d51965136498ea6e05
   specs:
     html2doc (0.7.0)
       asciimath
@@ -60,7 +60,7 @@ GIT
 
 GIT
   remote: https://github.com/riboseinc/isodoc
-  revision: 09d54e09e0d0fe7222b956d9d9717c4fcf12aeb1
+  revision: 780270559c365d6f2989d3c72963d2ee2e234768
   specs:
     isodoc (0.5.8)
       asciimath
