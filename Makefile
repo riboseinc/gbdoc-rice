@@ -11,7 +11,7 @@ clean:
 	rm -f $(HTML) $(DOC) $(XML)
 
 %.xml %.doc %.html: %.adoc
-	bundle exec asciidoctor --trace -b gb -r 'asciidoctor-gb' $^ --trace
+	bundle exec metanorma -t gb -x doc,html $^
 
 open:
 	open *.html
