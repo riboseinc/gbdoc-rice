@@ -5,8 +5,8 @@
 :revdate: 2018-08-08
 :copyright-year: 2018
 :iteration: 3
-:language: en
-:script: Latn
+:language: zh
+:script: Hans
 :title-intro-en: Cereals and pulses
 :title-main-en: Specifications and test methods
 :title-part-en: Rice
@@ -29,22 +29,23 @@
 :obsoletes-parts: clause 7-9, clause 11
 :iso-standard: ISO 17301-1:2016
 :equivalence: identical
-:scope: social
+:scope: local
 :mandate: recommended
 :topic: health-and-safety
-:prefix: T/T/ABC
-:issuer: Red Cross Society of China
+:prefix: DB81/T
 :issued-date: 2018-08-10
 :published-date: 2018-08-10
 :implemented-date: 2019-02-10
-:toc:
 :sectnumlevels: 7
-:stem:
-:xrefstyle: short
-:appendix-caption: Annex
-:appendix-refsig: Annex
-:section-refsig: Section
-:table-caption: Table
-:example-caption: Example
+:docfile: rice.gb.local.zh.adoc
+:mn-document-class: gb
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
+:appendix-caption: 附件
+:appendix-refsig: 附件
+:section-refsig: 章
+:table-caption: 表
+:example-caption: 例
 
-include::body/body-en.adoc[]
+include::body/body-zh.adoc[]

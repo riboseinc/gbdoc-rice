@@ -29,17 +29,20 @@
 :obsoletes-parts: clause 7-9, clause 11
 :iso-standard: ISO 17301-1:2016
 :equivalence: identical
-:scope: local
+:scope: enterprise
 :mandate: recommended
 :topic: health-and-safety
-:prefix: DB81/T
+:prefix: Q/T/DEF
+:issuer: Acme Inc.
 :issued-date: 2018-08-10
 :published-date: 2018-08-10
 :implemented-date: 2019-02-10
-:toc:
 :sectnumlevels: 7
-:stem:
-:xrefstyle: short
+:docfile: rice.gb.enterprise.zh.adoc
+:mn-document-class: gb
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
 :appendix-caption: 附件
 :appendix-refsig: 附件
 :section-refsig: 章

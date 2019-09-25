@@ -29,22 +29,18 @@
 :obsoletes-parts: clause 7-9, clause 11
 :iso-standard: ISO 17301-1:2016
 :equivalence: identical
-:scope: enterprise
+:scope: sector
 :mandate: recommended
 :topic: health-and-safety
-:prefix: Q/T/DEF
-:issuer: Acme Inc.
+:prefix: LS/T
 :issued-date: 2018-08-10
 :published-date: 2018-08-10
 :implemented-date: 2019-02-10
-:toc:
 :sectnumlevels: 7
-:stem:
-:xrefstyle: short
-:appendix-caption: Annex
-:appendix-refsig: Annex
-:section-refsig: Section
-:table-caption: Table
-:example-caption: Example
+:docfile: rice.gb.sector.en.adoc
+:mn-document-class: gb
+:mn-output-extensions: xml,html,doc,rxl
+:local-cache-only:
+:data-uri-image:
 
 include::body/body-en.adoc[]
