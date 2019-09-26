@@ -44,70 +44,149 @@ export METANORMA_DOCKER=1
 The `Makefile` will automatically choose the proper command to
 execute.
 
-////
-TODO!
 
-== Source files provided in this repo
+== Description of source and generated artifacts
 
-* `iso-rice-en.adoc`: Metanorma-GB markup source document for the Rice document, in English
-
-* `sections/*`: The Metanorma-GB markup source document for the Rice document, broken up into separate files for each section
-
-* `iso-rice-en-sections.adoc`: Metanorma-GB markup source document for the Rice document, referencing the individual files in `sections/*`
-
-* `iso-rice-zh.adoc`: Metanorma-GB markup source document for the Rice document, in Chinese
-
-
-== Description of generated artifacts
-
-* `{filename}-{lang}.xml`: Metanorma-GB XML output corresponding to the `{filename}-{lang}.adoc` source
-
-* `{filename}-{lang}.html`: Metanorma-GB HTML output corresponding to the `{filename}-{lang}.adoc` source
-
-* `{filename}-{lang}-alt.html`: Metanorma-GB "`readability-optimized`" HTML output corresponding to the `{filename}-{lang}.adoc` source
-
-
-== Managing an IsoDoc
-
-=== General
-
-The Rice document is given here both as a single source document and broken up into separate files, to illustrate both ways of managing Metanorma content.
-
-=== Single file
-
-There are two document examples provided here:
-
-* `iso-rice-en.adoc`: the Rice document in English
-* `iso-rice-zh.adoc`: the Rice document as translated to Chinese
+The Rice document is given here as a single source document
+to illustrate management of Metanorma content.
 
 For each language:
 
-* the file `iso-rice-{lang}.adoc` provides the document header
-* the file `body/body-{lang}.adoc` provides the content body.
+* `rice.gb.{type}.{lang}.adoc` provides the document header
+* `body/body-{lang}.adoc` provides the content body.
+
+Generated artifacts:
+
+* `rice.gb.{type}.{lang}.xml`: Metanorma-GB XML output corresponding to the `rice.gb.{type}.{lang}.adoc` source
+
+* `rice.gb.{type}.{lang}.html`: Metanorma-GB HTML output corresponding to the `rice.gb.{type}.{lang}.adoc` source
 
 
-=== Multiple files
+== Source files provided in this repo
 
-The document `iso-rice-en-sections.adoc` includes the document header and the following files.
 
-The section files are listed in order of appearance in the document, and each corresponds to a first-level clause of the Rice document:
+There are 6 major types of standards in China, namely:
 
-* `00-foreword.adoc`: Foreword
-* `00-introduction.adoc`: Introduction
-* `01-scope.adoc`: Scope
-* `02-normref.adoc`: Normative References
-* `03-termdef.adoc`: Terms and Definitions
-* `04-specifications.adoc`: Clause 4: Specifications
-* `05-sampling.adoc`: Clause 5: Sampling
-* `06-testmethods.adoc`: Clause 6: Test Methods
-* `07-testreport.adoc`: Clause 7: Test Report
-* `08-packaging.adoc`: Clause 8: Packaging
-* `09-marking.adoc`: Clause 9: Marking
-* `aa-annex-a.adoc`: Annex A
-* `ab-annex-b.adoc`: Annex B
-* `ac-annex-c.adoc`: Annex C
-* `ad-annex-d.adoc`: Annex D
-* `ae-annex-e.adoc`: Annex E (not in original Rice document, included to illustrate further formatting options)
-* `b0-bibliography.adoc`: Bibliography
+* National standards
+* Local standards
+* Sector standards
+* Social standards
+* Enterprise standards
+* Professional standards
 
-////
+
+=== National standards
+
+National standards are standards authorized and published by SAC
+(Standards Administration of China).
+
+These are standards with the document identifier prefix of "`GB`"
+standing for "`guobiao`", the abbreviation of "`guoji biaozhun`"
+("`national standard`" in Mandarin).
+
+See the https://github.com/metanorma/metanorma-model-gb/blob/master/models/gb-standard-national-prefix.adoc[GB National Standard Prefixes list] for all prefixes.
+
+
+* `rice.gb.en.adoc` markup source document for the Rice document as a China national standard, in English
+
+* `rice.gb.zh.adoc` markup source document for the Rice document as a China national standard, in Simplified Chinese
+
+
+=== Local standards
+
+Regional standards are standards developed by the regional
+standardization body, at the provincial or city level.
+
+These are standards with the document identifier prefix of "`DBnn`"
+standing for "`dibiao`", the abbreviation of "`difang biaozhun`"
+("`regional standard`" in Mandarin).
+
+The "`nn`" prefix is the location code of the region, these codes
+are defined in ISO 3166-2 as subdivision codes of China.
+
+See the https://github.com/metanorma/metanorma-model-gb/blob/master/models/gb-standard-local-prefix.adoc[GB Local Standard Prefixes list] for all prefixes.
+
+* `rice.gb.local.en.adoc` markup source document for the Rice document as a China regional standard, in English
+
+* `rice.gb.local.zh.adoc` markup source document for the Rice document as a China regional standard, in Simplified Chinese
+
+
+=== Sector standards
+
+Sector standards are standards developed by the sector standardization body
+as authorized by SAC.
+
+These are standards with a two-character document identifier prefix of
+various sorts. Each of these prefixes, clearly, stand for some abbreviation.
+
+For example, cryptographic standards are prefixed as "`GM`" for "`guo'mi`",
+the abbreviation of "`guojia mima`" ("`national cryptography`" in Mandarin).
+Agricultural standards are prefixed as "`NY`" for "`nong'ye`"
+("`agricultural sector`" in Mandarin).
+
+Consult https://www.metanorma.com/author/gb/topics/supported-types/[Metanorma-GB types]
+for the full list.
+
+See the https://github.com/metanorma/metanorma-model-gb/blob/master/models/gb-standard-sector-prefix.adoc[GB Sector Standard Prefixes list] for all prefixes.
+
+
+* `rice.gb.sector.en.adoc` markup source document for the Rice document as a China sector standard, in English
+
+* `rice.gb.sector.zh.adoc` markup source document for the Rice document as a China sector standard, in Simplified Chinese
+
+
+=== Societal standards
+
+Societal standards are standards developed by societal organizations.
+These organizations are government-affiliated organizations carrying
+a specific designation.
+
+These are standards with a 4-character document identifier prefix. The
+prefix starts with "`T`", with a 3-character "`group code`" identifying
+the societal organization. "`T`" is an abbreviation of "`tuanbiao`",
+itself an abbreviation of "`tuanti biaozhun`" ("`group standard`" in Mandarin).
+
+
+See the https://github.com/metanorma/metanorma-gb/issues/54[GB Social and Enterprise Standard Prefixes] for all prefixes.
+
+* `rice.gb.social.en.adoc` markup source document for the Rice document as a China societal standard, in English
+
+* `rice.gb.social.zh.adoc` markup source document for the Rice document as a China societal standard, in Simplified Chinese
+
+
+=== Enterprise standards
+
+Enterprise standards are standards developed by enterprises.
+There is no restriction on publication of enterprise standards, but
+the SAC offers a voluntary website for the registration of them.
+
+These are standards with a document identifier prefix that starts with "`Q`",
+followed by an enterprise identification code. There is no specific scheme
+for the enterprise identification code, there are digits, letters and
+even a mix of them. (Technically there is a requirement, but perhaps not enforced).
+
+The prefix "`Q`" is an abbreviation of "`qibiao`",
+itself an abbreviation of "`qiye biaozhun`" ("`enterprise standard`" in Mandarin).
+
+
+See the https://github.com/metanorma/metanorma-gb/issues/54[GB Social and Enterprise Standard Prefixes] for all prefixes.
+
+* `rice.gb.enterprise.en.adoc` markup source document for the Rice document as a China enterprise standard, in English
+
+* `rice.gb.enterprise.zh.adoc` markup source document for the Rice document as a China enterprise standard, in Simplified Chinese
+
+
+=== Professional standards
+
+Professional standards are standards developed by professional organizations.
+There is no restriction on publication of professional standards.
+
+These standards have a document identifier prefix that starts with "`ZB`",
+followed by a professional sector categorization code.
+
+The prefix "`ZB`" is an abbreviation of "`zhuanbiao`",
+itself an abbreviation of "`zhuanye biaozhun`"
+("`professional standard`" in Mandarin).
+
+Examples are not provided in this repository.
+
