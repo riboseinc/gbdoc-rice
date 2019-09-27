@@ -10,9 +10,10 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Build document in the Metanorma container
+        uses: docker://metanorma/metanorma:latest
         env:
           JAVA_OPTS: "java.awt.headless=true"
-          METANORMA_DOCKER: true
+          METANORMA_DOCKER: "true"
         run: |
           make clean all publish
       - uses: actions/upload-artifact@master
