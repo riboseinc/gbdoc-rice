@@ -9,8 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
-      - name: Build document in the Metanorma container
+      - name: Fetch Metanorma container
         uses: docker://metanorma/metanorma:latest
+      - name: Build document in the Metanorma container
         env:
           JAVA_OPTS: "java.awt.headless=true"
           METANORMA_DOCKER: "true"
