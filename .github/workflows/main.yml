@@ -1,0 +1,46 @@
+name: Build and deploy
+runs-on: ubuntu-latest
+
+on:
+  push:
+    branches: master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        ruby: [ '2.6' ]
+    steps:
+      - uses: actions/checkout@master
+      - name: Setup Metanorma
+      env:
+          JAVA_OPTS: "java.awt.headless=true"
+          COMMIT_AUTHOR_EMAIL: "$(yq r metanorma.yml metanorma.deploy.email)"
+        run: |
+          gem update --system
+          gem install bundler -v "~> 2"
+          sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
+          nvm use mn-node 
+#       - name: Setup ruby
+#         uses: actions/setup-ruby@v1
+#         with:
+#           ruby-version: ${{ matrix.ruby }}
+#           architecture: 'x64'
+#         run: |
+#           ruby hello.rb
+      - name: Build document
+        run: |
+          make clean all publish
+
+  mn-deploy-gh-pages:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - uses: actions/checkout@master
+    - name: deploy-to-gh
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/deploy-to-gh-pages.sh | bash"
+
