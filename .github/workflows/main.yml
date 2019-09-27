@@ -24,10 +24,12 @@ jobs:
       - name: Update gems
         run: |
           gem update --system
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
       - name: Setup Metanorma
         run: |
           sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
-          nvm use mn-node 
       - name: Build document
         env:
           JAVA_OPTS: "java.awt.headless=true"
