@@ -17,7 +17,6 @@ jobs:
         with:
           ruby-version: ${{ matrix.ruby }}
           architecture: 'x64'
-        run: ruby -v
       - name: Setup Metanorma
         env:
           JAVA_OPTS: "java.awt.headless=true"
