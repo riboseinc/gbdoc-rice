@@ -147,7 +147,7 @@ the societal organization. "`T`" is an abbreviation of "`tuanbiao`",
 itself an abbreviation of "`tuanti biaozhun`" ("`group standard`" in Mandarin).
 
 
-See the https://github.com/metanorma/metanorma-gb/issues/54[GB Social and Enterprise Standard Prefixes] for all prefixes.
+See the https://github.com/metanorma/metanorma-gb/issues/54[GB Social and Enterprise Standard Prefixes] for more information.
 
 * `rice.gb.social.en.adoc` markup source document for the Rice document as a China societal standard, in English
 
@@ -169,7 +169,7 @@ The prefix "`Q`" is an abbreviation of "`qibiao`",
 itself an abbreviation of "`qiye biaozhun`" ("`enterprise standard`" in Mandarin).
 
 
-See the https://github.com/metanorma/metanorma-gb/issues/54[GB Social and Enterprise Standard Prefixes] for all prefixes.
+See the https://github.com/metanorma/metanorma-gb/issues/54[GB Social and Enterprise Standard Prefixes] for more information.
 
 * `rice.gb.enterprise.en.adoc` markup source document for the Rice document as a China enterprise standard, in English
 
