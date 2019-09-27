@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Setup Metanorma
-      env:
+        env:
           JAVA_OPTS: "java.awt.headless=true"
           COMMIT_AUTHOR_EMAIL: "$(yq r metanorma.yml metanorma.deploy.email)"
         run: |
