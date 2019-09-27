@@ -12,6 +12,13 @@ jobs:
         ruby: [ '2.6' ]
     steps:
       - uses: actions/checkout@master
+      - name: Setup ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: ${{ matrix.ruby }}
+          architecture: 'x64'
+        run: |
+          ruby -v
       - name: Setup Metanorma
         env:
           JAVA_OPTS: "java.awt.headless=true"
@@ -21,13 +28,6 @@ jobs:
           gem install bundler -v "~> 2"
           sudo bash -c "curl -L https://raw.githubusercontent.com/metanorma/metanorma-linux-setup/master/ubuntu.sh | bash"
           nvm use mn-node 
-#       - name: Setup ruby
-#         uses: actions/setup-ruby@v1
-#         with:
-#           ruby-version: ${{ matrix.ruby }}
-#           architecture: 'x64'
-#         run: |
-#           ruby hello.rb
       - name: Build document
         run: |
           make clean all publish
