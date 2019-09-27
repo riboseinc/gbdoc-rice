@@ -1,5 +1,4 @@
 name: Build and deploy
-runs-on: ubuntu-latest
 
 on:
   push:
