@@ -23,7 +23,8 @@ jobs:
           sudo snap install yq
       - name: Update gems
         run: |
-          gem update --system
+          sudo gem update --system
+          sudo gem install bundler -v "~> 2"
       - uses: actions/setup-node@v1
         with:
           node-version: '10.x'
