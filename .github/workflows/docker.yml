@@ -20,7 +20,7 @@ jobs:
           name: published
           path: published
 
-mn-deploy-gh-pages:
+  deploy-gh-pages:
     runs-on: ubuntu-latest
     needs: build
     steps:
