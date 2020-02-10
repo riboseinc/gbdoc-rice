@@ -6,8 +6,8 @@ ifeq ($(MAIN_ADOC_SRC),ll)
 MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
 endif
 
-# CSV_SRC := $(wildcard sources/data/*.csv)
-CSV_SRC := sources/data/codes.csv
+CSV_SRC := $(wildcard sources/data/*.csv)
+# CSV_SRC := sources/data/codes.csv
 
 ALL_ADOC_SRC := $(ADOC_SRC) $(wildcard sources/sections*/*.adoc)
 ALL_SRC      := $(ALL_ADOC_SRC) $(CSV_SRC)
@@ -48,7 +48,7 @@ documents/%.xml: sources/%.xml | documents
 # Build canonical XML output
 # If XML file is provided, copy it over
 # Otherwise, build it using adoc
-%.xml %.html: %.adoc $(ALL_ADOC_SRC) $(DERIVED_ADOC) | bundle
+sources/%.xml: sources/%.adoc $(ALL_ADOC_SRC) $(DERIVED_ADOC) | bundle
 	BUILT_TARGET=$(shell yq r metanorma.yml metanorma.source.built_targets[$@]); \
 	if [ "$$BUILT_TARGET" != "null" ]; then \
 		if [ -f "$$BUILT_TARGET" ] && [ "$${BUILT_TARGET##*.}" == "xml" ]; then \
@@ -69,9 +69,6 @@ sources/%.html sources/%.doc sources/%.pdf:	sources/%.xml
 	else \
 		${PREFIX_CMD} metanorma $<; \
 	fi
-
-sources/data/codes.adoc: sources/data/codes.csv $(ADOC_GENERATOR)
-	scripts/split_codes.rb $< $@
 
 documents.rxl: $(OUTPUT_XML)
 	${PREFIX_CMD} relaton concatenate \
