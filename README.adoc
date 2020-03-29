@@ -1,6 +1,9 @@
 = GB standards in Metanorma (Metanorma-GB)
 
-image:https://travis-ci.com/metanorma/mn-samples-gb.svg?branch=master["Build Status", link="https://travis-ci.org/metanorma/mn-samples-gb"]
+image:https://github.com/metanorma/mn-samples-gb/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Aubuntu"]
+image:https://github.com/metanorma/mn-samples-gb/workflows/macos/badge.svg["OSX Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Amacos"]
+image:https://github.com/metanorma/mn-samples-gb/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Awindows"]
+
 
 This document is available in its rendered forms here:
 
