@@ -13,6 +13,9 @@ endif
 ifeq ($(SRC),ll)
 SRC :=
 endif
+ifeq ($(MAIN_ADOC_SRC),)
+MAIN_ADOC_SRC := $(filter-out README.adoc, $(wildcard sources/*.adoc))
+endif
 
 ifeq ($(SRC),)
 BUILT := $(shell yq r metanorma.yml metanorma.source.built_targets | cut -d ':' -f 1 | tr -s '\n' ' ')
