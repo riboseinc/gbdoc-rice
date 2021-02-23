@@ -1,8 +1,17 @@
 ---
 metanorma:
-  deploy:
-    email: "travis-ci@metanorma.org"
-relaton:
+  source:
+    files:
+      - sources/rice.gb.en.adoc
+      - sources/rice.gb.enterprise.en.adoc
+      - sources/rice.gb.enterprise.zh.adoc
+      - sources/rice.gb.local.en.adoc
+      - sources/rice.gb.local.zh.adoc
+      - sources/rice.gb.sector.en.adoc
+      - sources/rice.gb.sector.zh.adoc
+      - sources/rice.gb.social.en.adoc
+      - sources/rice.gb.social.zh.adoc
+      - sources/rice.gb.zh.adoc
   collection:
     organization: "Metanorma : Standards for standards"
     name: "Chinese Standards based on the ISO Rice document"
