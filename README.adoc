@@ -1,8 +1,6 @@
 = GB standards in Metanorma (Metanorma-GB)
 
-image:https://github.com/metanorma/mn-samples-gb/workflows/ubuntu/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Aubuntu"]
-image:https://github.com/metanorma/mn-samples-gb/workflows/macos/badge.svg["OSX Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Amacos"]
-image:https://github.com/metanorma/mn-samples-gb/workflows/windows/badge.svg["Windows Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Awindows"]
+image:https://github.com/metanorma/mn-samples-gb/workflows/generate/badge.svg["Ubuntu Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Agenerate"]
 image:https://github.com/metanorma/mn-samples-gb/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/mn-samples-gb/actions?query=workflow%3Adocker"]
 
 
@@ -37,16 +35,20 @@ See https://www.metanorma.com/overview/getting-started/
 If you have installed the build tools locally, and wish to run the
 locally-installed compilation tools, there is nothing further to set.
 
-If you don't want to deal with local dependencies, use the docker
-version by:
+If you don't want to deal with local dependencies, use the docker:
 
 [source,sh]
 ----
-export METANORMA_DOCKER=1
+docker run -v "$(pwd)":/metanorma -w /metanorma -it metanorma/mn metanorma site generate . -o published -c metanorma.yml
 ----
 
-The `Makefile` will automatically choose the proper command to
-execute.
+
+== Building The Document
+
+[source,sh]
+----
+metanorma site generate . -o published -c metanorma.yml
+----
 
 
 == Description of source and generated artifacts
