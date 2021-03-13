@@ -45,6 +45,12 @@ jobs:
 
       - run: gem install relaton-cli
 
+      - name: Metanorma compile
+        env:
+          JAVA_OPTS: "java.awt.headless=true"
+        run: |
+          bundle exec metanorma a.adoc --agree-to-terms
+
       - run: make clean all publish SKIP_BUNDLE=true
         env:
           JAVA_OPTS: "java.awt.headless=true"
