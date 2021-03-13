@@ -31,6 +31,14 @@ jobs:
           key: xml2rfc
           restore-key: xml2rfc
 
+      - uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: bundle-ubuntu-latest-2.6-${{ hashFiles('**/*.gemspec') }}
+          restore-keys: bundle-ubuntu-latest-2.6
+
+      - run: bundle config set path 'vendor/bundle'
+
       - name: Use Metanorma
         run: |
           sudo apt-get update

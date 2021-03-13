@@ -11,6 +11,26 @@ GIT
       tokenizer (~> 0.3.0)
       twitter_cldr
 
+GIT
+  remote: https://github.com/metanorma/metanorma-standoc
+  revision: eba2d8b743aa935186640d2adae77e1c6cb19424
+  specs:
+    metanorma-standoc (1.8.4)
+      asciidoctor (~> 2.0.0)
+      asciimath2unitsml (~> 0.2.0)
+      concurrent-ruby
+      iev (~> 0.2.1)
+      isodoc (~> 1.5.0)
+      latexmath
+      mathml2asciimath
+      metanorma-plugin-datastruct
+      metanorma-plugin-lutaml (~> 0.2.1)
+      metanorma-utils (~> 1.0.2)
+      relaton-cli (~> 1.7.0)
+      relaton-iev (~> 1.1.0)
+      ruby-jing
+      unicode2latex (~> 0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -202,21 +222,6 @@ GEM
       lutaml-uml (~> 0.2.0)
       metanorma
       relaton-cli
-    metanorma-standoc (1.8.4)
-      asciidoctor (~> 2.0.0)
-      asciimath2unitsml (~> 0.2.0)
-      concurrent-ruby
-      iev (~> 0.2.1)
-      isodoc (~> 1.5.0)
-      latexmath
-      mathml2asciimath
-      metanorma-plugin-datastruct
-      metanorma-plugin-lutaml (~> 0.2.1)
-      metanorma-utils (~> 1.0.2)
-      relaton-cli (~> 1.7.0)
-      relaton-iev (~> 1.1.0)
-      ruby-jing
-      unicode2latex (~> 0.0.1)
     metanorma-un (0.5.14)
       iso-639
       isodoc (~> 1.5.0)
@@ -363,6 +368,7 @@ PLATFORMS
 DEPENDENCIES
   metanorma-cli
   metanorma-iso!
+  metanorma-standoc!
   sassc
 
 BUNDLED WITH
