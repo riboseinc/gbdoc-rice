@@ -43,7 +43,7 @@ jobs:
 
       - name: Bundle
         run: |
-          bundle install -j 4
+          bundle install --full-index -j 4
       
       - name: Metanorma compile
         env:
